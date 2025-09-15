@@ -56,8 +56,5 @@ Let's collaborate on a project! Reach out to me at 👉 ✉️ **deepeshdangi700
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Deepesh70&icon=3&color=6" alt="Profile views count"/>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
