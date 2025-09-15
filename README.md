@@ -21,10 +21,7 @@ Let's collaborate on a project! Reach out to me at 👉 ✉️ **deepeshdangi700
 
 ---
 
-### 🔥 GitHub Contributions
-<div align="center">
-  <img src="./contrib-graph.svg" alt="Deepesh Dangi's Contribution Grid" style="max-width: 100%;">
-</div>
+
 
 ---
 
