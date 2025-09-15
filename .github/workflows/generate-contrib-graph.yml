@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This is the critical line
     steps:
       - uses: actions/checkout@v4
       - name: Generate contrib graph
