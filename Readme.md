@@ -12,7 +12,7 @@
   <!-- <a href="[WEBSITE_LINK]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=behance&logoColor=white" alt="Portfolio"/>Coming Soon...
   </a> -->
-   <a href="mailto:deepeshdangi700@gmail.com    " target="_blank">
+  <a href="mailto:deepeshdangi700@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -24,10 +24,8 @@
 <td valign="top" width="60%">
 
 ### 👋 About Me
-    
-    A full stack developer with a passion for creating dynamic and responsive web applications.
 
-- 🔭 I’m currently working on a BlackBookEdu that aims to **provide a comprehensive platform for students**.
+- 🔭 I’m currently working on BlackBookEdu — a project that aims to **provide a comprehensive platform for students**.
 - 🌱 I’m currently diving deep into **Machine Learning and Data Science**.
 - 👯 I’m looking to collaborate on open-source projects related to **Web Development and AI**.
 - 💬 Ask me anything about **MERN Stack, DevOps, Python**.
@@ -63,7 +61,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind-764ABC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/GSAP-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="GSAP" />
+  <img src="https://img.shields.io/badge/GSAP-35495E?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <br><br>
 
   <a href="#">
@@ -89,7 +87,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<!-- 3d and modelling -->
+<!-- 3D Modeling -->
 <br>
   <a href="#">
     <img src="https://img.shields.io/badge/-3D%20Modeling-blue?style=for-the-badge" />
