@@ -1,0 +1,6 @@
+/* Basic styles for the profile README */
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color: #111827; background: #fff; }
+h1, h2, h3 { color: #0f172a; }
+img { max-width: 100%; }
+.table { width: 100%; }
+code { background: #f3f4f6; padding: 2px 4px; border-radius: 4px; }
