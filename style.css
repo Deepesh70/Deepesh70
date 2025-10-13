@@ -1,4 +1,0 @@
-/* Minimal fallback styles. Primary styling uses Tailwind CDN in index.html */
-html, body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin: 0; padding: 0; }
-img { max-width: 100%; height: auto; }
-pre, code { background: #f3f4f6; padding: 2px 4px; border-radius: 4px; }
