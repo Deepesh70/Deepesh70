@@ -9,9 +9,9 @@
   <a href="https://stackoverflow.com/users/31307423/deepesh" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
   </a>
-  <a href="[WEBSITE_LINK]" target="_blank">
+  <!-- <a href="[WEBSITE_LINK]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=behance&logoColor=white" alt="Portfolio"/>Coming Soon...
-  </a>
+  </a> -->
    <a href="mailto:deepeshdangi700@gmail.com    " target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -27,7 +27,7 @@
     
     A full stack developer with a passion for creating dynamic and responsive web applications. Skilled in both front-end and back-end technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring the latest tech trends or contributing to open-source projects.
 
-- 🔭 I’m currently working on a BlackBookEdu that aims to **provide a comprehensive platform for students to manage their academic resources and collaborate on projects**.
+- 🔭 I’m currently working on a BlackBookEdu that aims to **provide a comprehensive platform for students**.
 - 🌱 I’m currently diving deep into **Machine Learning and Data Science**.
 - 👯 I’m looking to collaborate on open-source projects related to **Web Development and AI**.
 - 💬 Ask me anything about **MERN Stack, DevOps, Python**.
@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/Tailwind-764ABC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/GSAP-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="GSAP" />
   <br><br>
+
   <a href="#">
     <img src="https://img.shields.io/badge/-Backend-blue?style=for-the-badge" />
   </a>
@@ -89,12 +90,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
 <!-- 3d and modelling -->
 <br><br>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Unreal-F5792A?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+</p>
+
 
 
 ---
