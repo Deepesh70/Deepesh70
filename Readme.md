@@ -9,10 +9,7 @@
   <a href="https://stackoverflow.com/users/31307423/deepesh" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
   </a>
-  <!-- <a href="[WEBSITE_LINK]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=behance&logoColor=white" alt="Portfolio"/>Coming Soon...
-  </a> -->
-  <a href="mailto:deepeshdangi700@gmail.com">
+  <a href="mailto:deepeshdangi700@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -25,12 +22,14 @@
 
 ### 👋 About Me
 
-- 🔭 I’m currently working on BlackBookEdu — a project that aims to **provide a comprehensive platform for students**.
+I am a passionate developer based in Ahmedabad, with a love for building innovative applications and exploring the intersection of technology and creativity.
+
+- 🔭 I’m currently working on **BlackBookEdu**, a comprehensive platform for students.
 - 🌱 I’m currently diving deep into **Machine Learning and Data Science**.
 - 👯 I’m looking to collaborate on open-source projects related to **Web Development and AI**.
-- 💬 Ask me anything about **MERN Stack, DevOps, Python**.
+- 💬 Ask me anything about the **MERN Stack, DevOps, and Python**.
 - 📫 How to reach me: You can find me on the platforms above!
-- ⚡ Fun fact: **I love playing video games and exploring new worlds!**.
+- ⚡ Fun fact: I love playing video games and exploring new digital worlds!
 
 </td>
 <td valign="top" width="40%">
@@ -52,52 +51,42 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Frontend-blue?style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/-Frontend-blue?style=for-the-badge" />
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind-764ABC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/GSAP-35495E?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <br><br>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Backend-blue?style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/-Backend-blue?style=for-the-badge" />
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Database-blue?style=for-the-badge" />
-  </a>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/-Database-blue?style=for-the-badge" />
   <br>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Tools%20%26%20DevOps-blue?style=for-the-badge" />
-  </a>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/-Tools%20%26%20DevOps-blue?style=for-the-badge" />
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<!-- 3D Modeling -->
-<br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-3D%20Modeling-blue?style=for-the-badge" />
-  </a>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/-3D%20Modeling-blue?style=for-the-badge" />
   <br>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-<img src="https://img.shields.io/badge/Unreal-F5792A?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 </p>
-
-
 
 ---
 
