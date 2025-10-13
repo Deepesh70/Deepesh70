@@ -25,7 +25,7 @@
 
 ### 👋 About Me
     
-    A full stack developer with a passion for creating dynamic and responsive web applications. Skilled in both front-end and back-end technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring the latest tech trends or contributing to open-source projects.
+    A full stack developer with a passion for creating dynamic and responsive web applications.
 
 - 🔭 I’m currently working on a BlackBookEdu that aims to **provide a comprehensive platform for students**.
 - 🌱 I’m currently diving deep into **Machine Learning and Data Science**.
@@ -73,8 +73,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  
-  <br><br>
+  <br>
   <a href="#">
     <img src="https://img.shields.io/badge/-Database-blue?style=for-the-badge" />
   </a>
@@ -82,7 +81,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br><br>
+  <br>
   <a href="#">
     <img src="https://img.shields.io/badge/-Tools%20%26%20DevOps-blue?style=for-the-badge" />
   </a>
@@ -91,7 +90,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <!-- 3d and modelling -->
-<br><br>
+<br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-3D%20Modeling-blue?style=for-the-badge" />
+  </a>
+  <br>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Unreal-F5792A?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 </p>
