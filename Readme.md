@@ -1,4 +1,4 @@
-# JEEVANT
+# Deepesh
 
 <link rel="stylesheet" type="text/css" href="style.css">
 
@@ -78,10 +78,10 @@ To be there
 
 ## GitHub Stats
 
-![JEEVANT's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Jeevant010&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_title=true)
+![Deepesh's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Deepesh010&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_title=true)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jeevant010&theme=holi-theme">
+  <img src="https://streak-stats.demolab.com/?user=Deepesh010&theme=holi-theme">
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
@@ -91,7 +91,7 @@ To be there
 
 ## Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevant010&layout=compact&langs_count=12)](https://github.com/jeevant010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh010&layout=compact&langs_count=12)](https://github.com/Deepesh010/github-readme-stats)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5"/>
 </p>
@@ -101,22 +101,22 @@ To be there
 ## Repo Cards
 
 <p align="center">
-  <a href="https://github.com/Jeevant010/Wedding_Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevant010&repo=Wedding_Web&title_color=blue&show_owner=true" alt="Wedding_Web Repo Card">
+  <a href="https://github.com/Deepesh010/Wedding_Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepesh010&repo=Wedding_Web&title_color=blue&show_owner=true" alt="Wedding_Web Repo Card">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Jeevant010/GGStats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevant010&repo=GGStats&title_color=blue&show_owner=true" alt="GGStats Repo Card">
+  <a href="https://github.com/Deepesh010/GGStats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepesh010&repo=GGStats&title_color=blue&show_owner=true" alt="GGStats Repo Card">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Jeevant010/fun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevant010&repo=fun&title_color=blue&show_owner=true" alt="fun Repo Card">
+  <a href="https://github.com/Deepesh010/fun">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepesh010&repo=fun&title_color=blue&show_owner=true" alt="fun Repo Card">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Jeevant010/Water_Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevant010&repo=Water_Management&title_color=blue&show_owner=true" alt="Water_Management Repo Card">
+  <a href="https://github.com/Deepesh010/Water_Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepesh010&repo=Water_Management&title_color=blue&show_owner=true" alt="Water_Management Repo Card">
   </a>
 </p>
