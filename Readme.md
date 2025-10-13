@@ -87,15 +87,6 @@ I am a passionate developer based in Ahmedabad, with a love for building innovat
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 
-  <br><br>
-  <!-- ide -->
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
-    <img src="https://img.shields.io/badge/trae-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Trae" />
-    <!-- <img src="https://img.shields.io/badge/-Other-blue?style=for-the-badge" /> -->
-    <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Cursor" />
-
-
 </p>
 
 ---
