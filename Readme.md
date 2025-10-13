@@ -89,6 +89,10 @@ To be there
 
 ---
 
+View a modern Tailwind-based profile page: [index.html](index.html)
+
+---
+
 ## Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh010&layout=compact&langs_count=12)](https://github.com/Deepesh010/github-readme-stats)

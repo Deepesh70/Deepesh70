@@ -1,6 +1,4 @@
-/* Basic styles for the profile README */
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color: #111827; background: #fff; }
-h1, h2, h3 { color: #0f172a; }
-img { max-width: 100%; }
-.table { width: 100%; }
-code { background: #f3f4f6; padding: 2px 4px; border-radius: 4px; }
+/* Minimal fallback styles. Primary styling uses Tailwind CDN in index.html */
+html, body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin: 0; padding: 0; }
+img { max-width: 100%; height: auto; }
+pre, code { background: #f3f4f6; padding: 2px 4px; border-radius: 4px; }
