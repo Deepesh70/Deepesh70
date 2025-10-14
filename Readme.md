@@ -105,6 +105,3 @@ I am a passionate developer based in Ahmedabad, with a love for building innovat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepesh70&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
