@@ -102,6 +102,6 @@ I am a passionate developer based in Ahmedabad, with a love for building innovat
 ### 🔥 My Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=holi-theme">
 </p>
 
