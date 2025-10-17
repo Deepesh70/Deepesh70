@@ -22,7 +22,7 @@
 
 ### 👋 About Me
 
-I am a passionate developer based in Ahmedabad, with a love for building innovative applications and exploring the intersection of technology and creativity.
+I am a passionate developer from India, with a love for building innovative applications and exploring the intersection of technology and creativity.
 
 - 🔭 I’m currently working on **BlackBookEdu**, a comprehensive platform for students.
 - 🌱 I’m currently diving deep into **Machine Learning and Data Science**.
