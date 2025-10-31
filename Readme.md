@@ -103,5 +103,11 @@ I am a passionate developer from India, with a love for building innovative appl
 ### 🔥 My Contribution Streak
 
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=holi-theme">
+
+<a href="https://streak-stats.demolab.com">
+  
+![Streak Stats](https://streak-stats.demolab.com/?user=Deepesh70&theme=holi-theme&date_format=j%20M%5B%20Y%5D&cache_bust=1)
+
+</a>
+
 </p>
