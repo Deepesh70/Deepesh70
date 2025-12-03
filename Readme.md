@@ -36,11 +36,11 @@ I am a passionate developer from India, with a love for building innovative appl
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
 </td>
 </tr>
@@ -87,7 +87,6 @@ I am a passionate developer from India, with a love for building innovative appl
   <br>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-
 </p>
 
 ---
@@ -95,7 +94,9 @@ I am a passionate developer from India, with a love for building innovative appl
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepesh70&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Deepesh70&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -103,11 +104,5 @@ I am a passionate developer from India, with a love for building innovative appl
 ### 🔥 My Contribution Streak
 
 <p align="center">
-
-<a href="https://streak-stats.demolab.com">
-  
-![Streak Stats](https://streak-stats.demolab.com/?user=Deepesh70&theme=holi-theme&date_format=j%20M%5B%20Y%5D&cache_bust=1)
-
-</a>
-
+  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="Streak Stats" />
 </p>
