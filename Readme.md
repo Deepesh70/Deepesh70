@@ -37,7 +37,7 @@ I am a passionate developer from India, with a love for building innovative appl
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
@@ -104,5 +104,5 @@ I am a passionate developer from India, with a love for building innovative appl
 ### 🔥 My Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
