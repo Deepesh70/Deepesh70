@@ -104,5 +104,5 @@ I am a passionate developer from India, with a love for building innovative appl
 ### 🔥 My Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deepesh70&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
