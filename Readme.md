@@ -101,7 +101,7 @@ I am a passionate developer from India, with a love for building innovative appl
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Deepesh70&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://deepesh-github-prof-91.deno.dev/?username=Deepesh70&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
