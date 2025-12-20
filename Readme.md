@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Deepesh;I'm+a+Full-Stack+Developer;I'm+a+Tech+Enthusiast;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
-https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif
+![👋 Hi, my name is Deepesh](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+
 ![Profile views](https://komarev.com/ghpvc/?username=Deepesh70&label=Profile%20views&color=0e75b6&style=flat)
 
 <div align="center">
