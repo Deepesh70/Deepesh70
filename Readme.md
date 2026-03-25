@@ -42,7 +42,7 @@ I am a passionate developer from India, building **BlackBookEdu** and exploring 
 ### 🔥 My Contribution Streak
 
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=ADIT400&theme=holi-theme">
+ <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=holi-theme">
 </p>
 </table>
 
