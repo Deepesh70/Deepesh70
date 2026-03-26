@@ -23,10 +23,10 @@
 ### 👋 About Me
 I am a passionate developer from India, building **BlackBookEdu** and exploring **ML/AI**.
 
-- 🔭 Working on: **BlackBookEdu**
+- 🔭 Working on: **AdaptiveGrade**
 - 🌱 Learning: **Machine Learning & Data Science**
 - 👯 Collab: **Web Dev & AI**
-- 💬 Ask me: **MERN, DevOps, Python**
+- 💬 Ask me: **MERN, DevOps, Python,Cloud**
 </td>
 <td valign="top" width="50%">
 
