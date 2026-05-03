@@ -21,7 +21,7 @@
 <td valign="top" width="50%">
 
 ### 👋 About Me
-I am a passionate developer from India, building **BlackBookEdu** and exploring **ML/AI**.
+I am a passionate developer from India, building **AdaptiveGrade** and exploring **ML/AI**.
 
 - 🔭 Working on: **AdaptiveGrade**
 - 🌱 Learning: **Machine Learning & Data Science**
