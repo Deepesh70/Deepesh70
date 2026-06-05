@@ -31,10 +31,15 @@ I am a passionate **Full-Stack Developer** from India, currently building **Adap
 
 ### 🚀 Featured Projects
 
-| **[AdaptiveGrade](https://github.com/Deepesh70/AdaptiveGrade)** | **[Project-Showcase-2](https://github.com/Deepesh70)** |
+| **[AdaptiveGrade](https://www.adaptivegrade.tech/)** | **[Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP)** |
 | :--- | :--- |
-| An adaptive learning and grading platform powered by machine learning algorithms to personalize educational assessments. | A template card for your next projects. You can easily modify this to showcase your featured repositories. |
-| <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code> <code>Machine Learning</code> | <code>TypeScript</code> <code>PostgreSQL</code> <code>Next.js</code> <code>Tailwind CSS</code> |
+| An adaptive learning and grading platform powered by machine learning algorithms to personalize educational assessments. | A Model Context Protocol (MCP) host integration for Unreal Engine, enabling advanced tool integration and developer workflow automation. |
+| <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code> <code>ML</code> | <code>C++</code> <code>Unreal Engine</code> <code>MCP</code> <code>TypeScript</code> |
+
+| **[Mini GPT](https://github.com/Jeevant010/Mini_Generative_Pretrained_Transformer)** | **[GGStats](https://github.com/Jeevant010/GGStats)** |
+| :--- | :--- |
+| A lightweight generative pretrained transformer model built from scratch to demonstrate transformer architecture and text generation. | A gaming statistics tracking and analysis application providing players with performance insights and visualizations. |
+| <code>Python</code> <code>PyTorch</code> <code>Transformers</code> <code>Deep Learning</code> | <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Tailwind CSS</code> |
 
 ---
 
@@ -76,16 +81,16 @@ I am a passionate **Full-Stack Developer** from India, currently building **Adap
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deepesh70&show_icons=true&theme=transparent&hide_border=false&border_color=30363d&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=transparent&hide_border=false&border_color=30363d&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=transparent&hide_border=false&border_color=30363d&stroke=8b949e&ring=58a6ff&fire=ff7a00&currStreakNum=f0f6fc&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&currStreakLabel=58a6ff" width="60%" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=tokyonight&hide_border=false&border_color=30363d" width="60%" alt="Contribution Streak" />
 </p>
 
 ---
@@ -93,7 +98,7 @@ I am a passionate **Full-Stack Developer** from India, currently building **Adap
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepesh70&theme=github-dark-v2&bg_color=00000000&hide_border=false&border_color=30363d&color=58a6ff" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepesh70&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="Activity Graph" />
 </p>
 
 ---
