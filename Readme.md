@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="70%" alt="Greeting GIF" />
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/deepesh-dangi-377a1028a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/31307423/deepesh" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-1f2328?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
   <a href="mailto:deepeshdangi700@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -78,15 +82,11 @@ I am a passionate **Full-Stack Developer** from India, currently building **Adap
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=transparent&hide_border=false&border_color=30363d&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff" width="100%" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=transparent&hide_border=false&border_color=30363d&stroke=8b949e&ring=58a6ff&fire=ff7a00&currStreakNum=f0f6fc&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&currStreakLabel=58a6ff" width="100%" alt="Contribution Streak" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Deepesh70&theme=transparent&hide_border=false&border_color=30363d&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff" width="100%" alt="WakaTime Stats" />
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=transparent&hide_border=false&border_color=30363d&stroke=8b949e&ring=58a6ff&fire=ff7a00&currStreakNum=f0f6fc&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&currStreakLabel=58a6ff" width="60%" alt="Contribution Streak" />
+</p>
 
 ---
 
