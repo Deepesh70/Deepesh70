@@ -25,7 +25,7 @@ I am a passionate **Full-Stack Developer** from India, currently building **Adap
 - 🔭 **Currently working on:** [AdaptiveGrade](https://github.com/Deepesh70/AdaptiveGrade) — an intelligent learning & grading ecosystem.
 - 🌱 **Deepening my knowledge in:** Machine Learning, Deep Learning, and Data Science.
 - 👯 **Looking to collaborate on:** Open-source AI/ML and modern Web applications.
-- 💬 **Ask me about:** MERN Stack, Python, DevOps, Cloud Infrastructure, and PostgreSQL/MySQL.
+- 💬 **Ask me about:** MERN Stack, Python, DevOps, Cloud Infrastructure, and MySQL.
 
 ---
 
@@ -57,22 +57,40 @@ I am a passionate **Full-Stack Developer** from India, currently building **Adap
   <img src="https://img.shields.io/badge/GSAP-1f2328?style=flat-square&logo=gsap&logoColor=white" alt="GSAP" /> &nbsp;
   <img src="https://img.shields.io/badge/Figma-1f2328?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" /> &nbsp;
   <img src="https://img.shields.io/badge/HTML5-1f2328?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" /> &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1f2328?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1f2328?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" /> &nbsp;
+  <img src="https://img.shields.io/badge/Vite-1f2328?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" /> &nbsp;
+  <img src="https://img.shields.io/badge/Framer_Motion-1f2328?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer Motion" /> &nbsp;
+  <img src="https://img.shields.io/badge/Three.js-1f2328?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" /> &nbsp;
+  <img src="https://img.shields.io/badge/shadcn/ui-1f2328?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 
 - **Backend & Databases:** &nbsp;
   <img src="https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" /> &nbsp;
   <img src="https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white" alt="Express" /> &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-1f2328?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" /> &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-1f2328?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> &nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" /> &nbsp;
+  <img src="https://img.shields.io/badge/Redis-1f2328?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" /> &nbsp;
+  <img src="https://img.shields.io/badge/Socket.io-1f2328?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" /> &nbsp;
+  <img src="https://img.shields.io/badge/Celery-1f2328?style=flat-square&logo=celery&logoColor=37814A" alt="Celery" />
+
+- **AI & Machine Learning:** &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-1f2328?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /> &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1f2328?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> &nbsp;
+  <img src="https://img.shields.io/badge/Hugging_Face-1f2328?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /> &nbsp;
+  <img src="https://img.shields.io/badge/Ollama-1f2328?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> &nbsp;
+  <img src="https://img.shields.io/badge/Qdrant-1f2328?style=flat-square&logo=qdrant&logoColor=FF4000" alt="Qdrant" />
 
 - **Tools & DevOps:** &nbsp;
+  <img src="https://img.shields.io/badge/Docker-1f2328?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /> &nbsp;
   <img src="https://img.shields.io/badge/AWS-1f2328?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" /> &nbsp;
   <img src="https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032" alt="Git" /> &nbsp;
   <img src="https://img.shields.io/badge/GitLab-1f2328?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" /> &nbsp;
   <img src="https://img.shields.io/badge/GitHub-1f2328?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> &nbsp;
   <img src="https://img.shields.io/badge/VS_Code-1f2328?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" /> &nbsp;
-  <img src="https://img.shields.io/badge/JetBrains-1f2328?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains" />
+  <img src="https://img.shields.io/badge/JetBrains-1f2328?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains" /> &nbsp;
+  <img src="https://img.shields.io/badge/Vercel-1f2328?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> &nbsp;
+  <img src="https://img.shields.io/badge/Cloudinary-1f2328?style=flat-square&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" />
 
 ---
 
