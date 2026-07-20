@@ -31,7 +31,7 @@ I am a passionate **Full-Stack Developer** from India, currently building **Adap
 
 ### 🚀 Featured Projects
 
-| **[AdaptiveGrade](https://www.adaptivegrade.tech/)** | **[Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP)** |
+| **[ScholarDive](https://www.scholardive.com/)** | **[Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP)** |
 | :--- | :--- |
 | An adaptive learning and grading platform powered by machine learning algorithms to personalize educational assessments. | A Model Context Protocol (MCP) host integration for Unreal Engine, enabling advanced tool integration and developer workflow automation. |
 | <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code> <code>ML</code> | <code>C++</code> <code>Unreal Engine</code> <code>MCP</code> <code>TypeScript</code> |
