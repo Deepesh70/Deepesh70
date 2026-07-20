@@ -22,7 +22,7 @@
 
 I am a passionate **Full-Stack Developer** from India, currently building **AdaptiveGrade** and exploring the intersection of **Web Development** and **AI/ML**.
 
-- 🔭 **Currently working on:** [AdaptiveGrade](https://github.com/Deepesh70/AdaptiveGrade) — an intelligent learning & grading ecosystem.
+- 🔭 **Currently working on:** [ScholarDive](https://www.scholardive.com/) — an intelligent learning & grading ecosystem.
 - 🌱 **Deepening my knowledge in:** Machine Learning, Deep Learning, and Data Science.
 - 👯 **Looking to collaborate on:** Open-source AI/ML and modern Web applications.
 - 💬 **Ask me about:** MERN Stack, Python, DevOps, Cloud Infrastructure, and MySQL.
