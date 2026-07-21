@@ -20,7 +20,7 @@
 
 ### 💻 About Me
 
-I am a passionate **Full-Stack Developer** from India, currently building **AdaptiveGrade** and exploring the intersection of **Web Development** and **AI/ML**.
+I am a passionate **Full-Stack Developer** from India, currently building **ScholarDive** and exploring the intersection of **Web Development** and **AI/ML**.
 
 - 🔭 **Currently working on:** [ScholarDive](https://www.scholardive.com/) — an intelligent learning & grading ecosystem.
 - 🌱 **Deepening my knowledge in:** Machine Learning, Deep Learning, and Data Science.
