@@ -3,9 +3,10 @@
 </div>
 
 
-<div align="center">
+<div align="center" >
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="70%" alt="Greeting GIF" />
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/deepesh-dangi-377a1028a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=white" /></a>
