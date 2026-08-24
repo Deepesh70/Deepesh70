@@ -2,11 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Deepesh;I'm+a+Full-Stack+Developer;I'm+a+Tech+Enthusiast;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
-
-<div align="center" >
+<div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="70%" alt="Greeting GIF" />
 </div>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/deepesh-dangi-377a1028a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -31,7 +29,6 @@ I am a passionate **Full-Stack Developer** from India, currently building **Scho
 
 ---
 
-
 ### 🚀 Featured Projects
 
 | **[ScholarDive](https://www.scholardive.com/)** | **[Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP)** |
@@ -39,7 +36,7 @@ I am a passionate **Full-Stack Developer** from India, currently building **Scho
 | An adaptive learning and grading platform powered by machine learning algorithms to personalize educational assessments. | A Model Context Protocol (MCP) host integration for Unreal Engine, enabling advanced tool integration and developer workflow automation. |
 | <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code> <code>ML</code> | <code>C++</code> <code>Unreal Engine</code> <code>MCP</code> <code>TypeScript</code> |
 
-| **[Mini GPT](https://github.com/Jeevant010/Mini_Generative_Pretrained_Transformer)** | **[GGStats](https://github.com/Jeevant010/GGStats)** |
+| **[Mini GPT](https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer)** | **[GGStats](https://github.com/Deepesh70/GGStats)** |
 | :--- | :--- |
 | A lightweight generative pretrained transformer model built from scratch to demonstrate transformer architecture and text generation. | A gaming statistics tracking and analysis application providing players with performance insights and visualizations. |
 | <code>Python</code> <code>PyTorch</code> <code>Transformers</code> <code>Deep Learning</code> | <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Tailwind CSS</code> |
@@ -102,10 +99,10 @@ I am a passionate **Full-Stack Developer** from India, currently building **Scho
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
