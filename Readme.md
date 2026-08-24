@@ -99,18 +99,17 @@ I am a passionate **Full-Stack Developer** from India, currently building **Scho
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&cache_seconds=1800" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=30363d&cache_seconds=1800" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=tokyonight&hide_border=false&border_color=30363d" width="60%" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=false&border_color=30363d" width="60%" alt="Contribution Streak" />
 </p>
-
 ---
 
 ### 📈 Activity Graph
