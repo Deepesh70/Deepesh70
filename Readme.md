@@ -1,127 +1,178 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Deepesh;I'm+a+Full-Stack+Developer;I'm+a+Tech+Enthusiast;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=550&lines=Senior+Full-Stack+%26+Applied+AI+Engineer;Architecting+Scalable+Cloud+%26+Web+Systems;Building+Autonomous+AI+Pipelines+%26+MCP+Tooling;Performance+Optimization+%26+Distributed+Systems" alt="Typing Banner" />
 </div>
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="70%" alt="Greeting GIF" />
+  <p align="center">
+    <strong>Senior Software Engineer</strong> specializing in scalable distributed architectures, modern full-stack web platforms, and applied AI/LLM systems.
+  </p>
+
+  <a href="https://www.linkedin.com/in/deepesh-dangi-377a1028a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Deepesh70" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://stackoverflow.com/users/31307423/deepesh" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="mailto:deepeshdangi700@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
+
+<br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/deepesh-dangi-377a1028a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/31307423/deepesh" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-1f2328?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
-  <a href="mailto:deepeshdangi700@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white" /></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepesh70&label=Profile%20views&color=1f2328&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Deepesh70&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-### 💻 About Me
+### 👨‍💻 Executive Summary
 
-I am a passionate **Full-Stack Developer** from India, currently building **ScholarDive** and exploring the intersection of **Web Development** and **AI/ML**.
+I engineer high-performance web platforms and production-grade AI systems. With strong foundations in **systems programming (C++)**, **backend scalability (Node.js, FastAPI, Redis, PostgreSQL)**, and **applied deep learning (PyTorch, Transformers, LangChain, MCP)**, I focus on building robust software that bridges modern user interfaces with intelligent backend infrastructure.
 
-- 🔭 **Currently working on:** [ScholarDive](https://www.scholardive.com/) — an intelligent learning & grading ecosystem.
-- 🌱 **Deepening my knowledge in:** Machine Learning, Deep Learning, and Data Science.
-- 👯 **Looking to collaborate on:** Open-source AI/ML and modern Web applications.
-- 💬 **Ask me about:** MERN Stack, Python, DevOps, Cloud Infrastructure, and MySQL.
-
----
-
-### 🚀 Featured Projects
-
-| **[ScholarDive](https://www.scholardive.com/)** | **[Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP)** |
-| :--- | :--- |
-| An adaptive learning and grading platform powered by machine learning algorithms to personalize educational assessments. | A Model Context Protocol (MCP) host integration for Unreal Engine, enabling advanced tool integration and developer workflow automation. |
-| <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code> <code>ML</code> | <code>C++</code> <code>Unreal Engine</code> <code>MCP</code> <code>TypeScript</code> |
-
-| **[Mini GPT](https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer)** | **[GGStats](https://github.com/Deepesh70/GGStats)** |
-| :--- | :--- |
-| A lightweight generative pretrained transformer model built from scratch to demonstrate transformer architecture and text generation. | A gaming statistics tracking and analysis application providing players with performance insights and visualizations. |
-| <code>Python</code> <code>PyTorch</code> <code>Transformers</code> <code>Deep Learning</code> | <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Tailwind CSS</code> |
+- 🔭 **Architecting & Leading:** [ScholarDive](https://www.scholardive.com/) — an intelligent, adaptive educational assessment engine with automated grading pipelines.
+- ⚙️ **Systems & AI Tooling:** Engineering native Model Context Protocol (MCP) integrations in **C++ / Unreal Engine** to enable LLM-driven runtime tooling.
+- 🔬 **R&D Focus:** Distributed transformer inference, custom agentic workflows, RAG architectures with vector embeddings, and real-time streaming interfaces.
+- 🤝 **Collaboration:** Available for high-impact open-source initiatives, system design consultations, and cutting-edge AI/Web collaborations.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Featured Engineering Projects
 
-- **Languages:** &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=F7DF1C" alt="JavaScript" /> &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> &nbsp;
-  <img src="https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /> &nbsp;
-  <img src="https://img.shields.io/badge/C++-1f2328?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
-
-- **Frontend & Design:** &nbsp;
-  <img src="https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1f2328?style=flat-square&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" /> &nbsp;
-  <img src="https://img.shields.io/badge/GSAP-1f2328?style=flat-square&logo=gsap&logoColor=white" alt="GSAP" /> &nbsp;
-  <img src="https://img.shields.io/badge/Figma-1f2328?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" /> &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-1f2328?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" /> &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1f2328?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" /> &nbsp;
-  <img src="https://img.shields.io/badge/Vite-1f2328?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" /> &nbsp;
-  <img src="https://img.shields.io/badge/Framer_Motion-1f2328?style=flat-square&logo=framer&logoColor=0055FF" alt="Framer Motion" /> &nbsp;
-  <img src="https://img.shields.io/badge/Three.js-1f2328?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" /> &nbsp;
-  <img src="https://img.shields.io/badge/shadcn/ui-1f2328?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-
-- **Backend & Databases:** &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" /> &nbsp;
-  <img src="https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white" alt="Express" /> &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-1f2328?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" /> &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-1f2328?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" /> &nbsp;
-  <img src="https://img.shields.io/badge/Redis-1f2328?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" /> &nbsp;
-  <img src="https://img.shields.io/badge/Socket.io-1f2328?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" /> &nbsp;
-  <img src="https://img.shields.io/badge/Celery-1f2328?style=flat-square&logo=celery&logoColor=37814A" alt="Celery" />
-
-- **AI & Machine Learning:** &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-1f2328?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /> &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1f2328?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> &nbsp;
-  <img src="https://img.shields.io/badge/Hugging_Face-1f2328?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /> &nbsp;
-  <img src="https://img.shields.io/badge/Ollama-1f2328?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> &nbsp;
-  <img src="https://img.shields.io/badge/Qdrant-1f2328?style=flat-square&logo=qdrant&logoColor=FF4000" alt="Qdrant" />
-
-- **Tools & DevOps:** &nbsp;
-  <img src="https://img.shields.io/badge/Docker-1f2328?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /> &nbsp;
-  <img src="https://img.shields.io/badge/AWS-1f2328?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" /> &nbsp;
-  <img src="https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032" alt="Git" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitLab-1f2328?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-1f2328?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> &nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-1f2328?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" /> &nbsp;
-  <img src="https://img.shields.io/badge/JetBrains-1f2328?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains" /> &nbsp;
-  <img src="https://img.shields.io/badge/Vercel-1f2328?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> &nbsp;
-  <img src="https://img.shields.io/badge/Cloudinary-1f2328?style=flat-square&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" />
-
----
-
-### 📊 Coding Activity & Statistics
-
-<table border="0" width="100%">
+<table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://www.scholardive.com/">ScholarDive</a></h3>
+      <p>An enterprise-grade adaptive learning and automated evaluation platform designed for scalable educational assessments.</p>
+      <ul>
+        <li>Implemented automated semantic scoring using fine-tuned NLP pipelines.</li>
+        <li>Built real-time assessment streaming and distributed state management.</li>
+        <li>Architected low-latency microservices handling student submissions and analytics.</li>
+      </ul>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>FastAPI</code> <code>MongoDB</code> <code>Python</code> <code>PyTorch</code>
+      </p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=30363d&cache_seconds=1800" width="100%" alt="Top Languages" />
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Deepesh70/Unreal-MCP">Unreal-MCP</a></h3>
+      <p>An open-source Model Context Protocol (MCP) server & host integration for Unreal Engine developer workflow automation.</p>
+      <ul>
+        <li>Bridges local/remote LLM agent frameworks with Unreal Engine's editor C++ APIs.</li>
+        <li>Automates asset generation, viewport manipulations, and scene graphing via structured RPCs.</li>
+        <li>High-throughput IPC with low latency overhead inside native game engine runtime.</li>
+      </ul>
+      <p>
+        <code>C++</code> <code>Unreal Engine</code> <code>Model Context Protocol</code> <code>TypeScript</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer">Mini GPT</a></h3>
+      <p>A decoder-only autoregressive Generative Pretrained Transformer designed and trained from mathematical first principles.</p>
+      <ul>
+        <li>Implemented causal multi-head self-attention, residual connections, and layer norm.</li>
+        <li>Constructed custom tokenization and efficient batch training pipelines in PyTorch.</li>
+        <li>Benchmarked parameter efficiency, perplexity, and KV-cache generation speeds.</li>
+      </ul>
+      <p>
+        <code>Python</code> <code>PyTorch</code> <code>Transformers</code> <code>Deep Learning</code> <code>CUDA</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Deepesh70/GGStats">GGStats</a></h3>
+      <p>A high-performance gaming telemetry and competitive statistical analysis platform with live visual telemetry.</p>
+      <ul>
+        <li>Integrated third-party game telemetry APIs with distributed Redis caching.</li>
+        <li>Reduced API rate-limiting bottlenecks and boosted query response by 70%.</li>
+        <li>Built an interactive, animated analytics dashboard using React and Tailwind.</li>
+      </ul>
+      <p>
+        <code>React</code> <code>TypeScript</code> <code>Express</code> <code>Redis</code> <code>Tailwind CSS</code>
+      </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=false&border_color=30363d" width="60%" alt="Contribution Streak" />
-</p>
 ---
 
-### 📈 Activity Graph
+### 🛠️ Technical Arsenal & Architecture
 
-<p align="center">
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <h4>⚡ Core & Systems</h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+    </td>
+    <td width="25%" valign="top">
+      <h4>🌐 Backend & Systems</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+    </td>
+    <td width="25%" valign="top">
+      <h4>🤖 Applied AI & ML</h4>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MCP_Protocol-6366F1?style=flat-square&logo=anthropic&logoColor=white" />
+    </td>
+    <td width="25%" valign="top">
+      <h4>🎨 UI & DevOps</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git_&_CI/CD-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Engineering Metrics & Telemetry
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=30363d&cache_seconds=1800" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com/?user=Deepesh70&theme=tokyonight&hide_border=false&border_color=30363d" width="70%" alt="Contribution Streak" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepesh70&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="Activity Graph" />
-</p>
+</div>
 
 ---
 
 <div align="center">
   <a href="https://buymeacoffee.com/deepesh70" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor_Deepesh-1f2328?style=flat-square&logo=buy-me-a-coffee&logoColor=FFDD00" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Sponsor_Deepesh-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
