@@ -145,6 +145,31 @@ I am a **B.Tech Computer Science student from India**, building production-ready
   </tr>
 </table>
 
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>💻 Developer Environments</h4>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Ghidra-E01E5A?style=flat-square&logo=nsa&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>☁️ Deployment & Edge</h4>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 Local AI & Tooling</h4>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 📊 GitHub Activity & Statistics
