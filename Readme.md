@@ -1,13 +1,12 @@
 <div align="center">
-  <!-- Typing banner calibrated with width=700 and size=20 to prevent any clipping -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&height=50&lines=B.Tech+CSE+Undergrad+%7C+Software+Engineer;Full-Stack+Development+%26+Applied+AI+Systems;Building+Autonomous+AI+Pipelines+%26+MCP+Tooling;Seeking+SDE+Internships+%26+High-Impact+Roles" alt="Typing Banner" />
 </div>
 
 <div align="center">
-  <p align="center">
+  <p>
     🎓 <strong>B.Tech in Computer Science & Engineering</strong> | Full-Stack & Applied AI Developer
     <br />
-    Passionate about architecting scalable web platforms, distributed systems, and native AI/LLM tooling.
+    Building scalable web platforms, distributed systems, and native AI/LLM tooling.
   </p>
 
   <a href="https://www.linkedin.com/in/deepesh-dangi-377a1028a/" target="_blank">
@@ -37,9 +36,9 @@
 I am a **B.Tech Computer Science student from India**, building production-ready web applications and exploring the frontier of **Applied AI and Systems Engineering**. I focus on deep engineering principles rather than superficial frameworks—from training transformers from mathematical first principles in PyTorch to writing high-throughput C++ bridges for game engines.
 
 - 🎓 **Academics:** Pursuing Bachelor of Technology (B.Tech) in Computer Science & Engineering.
-- 🔭 **Active Project:** Co-building [ScholarDive](https://www.scholardive.com/) — an intelligent learning and automated assessment ecosystem.
+- 🔭 **Active Project:** Co-building [ScholarDive](https://www.scholardive.com/) — an adaptive educational assessment ecosystem.
 - ⚙️ **Systems & AI:** Built **Unreal-MCP**, bridging local LLM agent workflows into Unreal Engine using C++ and the Model Context Protocol.
-- 📚 **Core CS Strengths:** Data Structures & Algorithms (DSA), System Design, Object-Oriented Programming (OOP), OS, Computer Networks, and DBMS.
+- 📚 **Core CS Strengths:** Data Structures & Algorithms, System Design, OOP, OS, Networks, and DBMS.
 - 🎯 **Looking For:** **SDE Internships, Full-Time Graduate Roles, and Open-Source Collaborations**.
 
 ---
@@ -50,7 +49,7 @@ I am a **B.Tech Computer Science student from India**, building production-ready
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://www.scholardive.com/">ScholarDive</a></h3>
-      <p>An intelligent, adaptive educational assessment platform engineered to automate grading workflows and personalized learning paths.</p>
+      <p>An adaptive educational assessment platform engineered to automate grading workflows and personalized learning paths.</p>
       <ul>
         <li>Implemented automated semantic scoring using NLP evaluation pipelines.</li>
         <li>Architected low-latency backend microservices handling student submissions and analytics.</li>
@@ -91,8 +90,8 @@ I am a **B.Tech Computer Science student from India**, building production-ready
       <p>A gaming statistics analytics platform providing players with performance insights and live visual telemetry.</p>
       <ul>
         <li>Integrated external telemetry APIs with an in-memory Redis caching layer.</li>
-        <li>Significantly reduced third-party rate limiting and boosted query throughput.</li>
-        <li>Created a responsive, interactive statistics dashboard with modern data visualization.</li>
+        <li>Reduced third-party rate limiting and boosted query throughput.</li>
+        <li>Created a responsive statistics dashboard with real-time telemetry rendering.</li>
       </ul>
       <p>
         <code>React</code> <code>TypeScript</code> <code>Express</code> <code>Redis</code> <code>Tailwind CSS</code>
@@ -105,70 +104,36 @@ I am a **B.Tech Computer Science student from India**, building production-ready
 
 ### 🛠️ Tech Stack & Technical Arsenal
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top">
-      <h4>⚡ Languages</h4>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-    <td width="25%" valign="top">
-      <h4>🌐 Backend & DBs</h4>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-    <td width="25%" valign="top">
-      <h4>🤖 AI & Systems</h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Model_Context_Protocol-6366F1?style=flat-square&logo=anthropic&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" />
-    </td>
-    <td width="25%" valign="top">
-      <h4>🎨 Frontend & Cloud</h4>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p><strong>Languages:</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-<br/>
+<p><strong>Backend & Databases:</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>💻 Developer Environments</h4>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Ghidra-E01E5A?style=flat-square&logo=nsa&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Deployment & Edge</h4>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤖 Local AI & Tooling</h4>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p><strong>AI, Systems & Tooling:</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-6366F1?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
@@ -178,23 +143,18 @@ I am a **B.Tech Computer Science student from India**, building production-ready
   <img src="https://img.shields.io/github/followers/Deepesh70?label=Followers&style=for-the-badge&logo=github&color=00BFFF&logoColor=white" alt="GitHub Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/Deepesh70?label=Total%20Stars&style=for-the-badge&logo=github&color=3178C6&logoColor=white" alt="GitHub Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Public_Repos-Deepesh70-181717?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
 </div>
 
 <br />
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_color=30363d" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&count_private=true" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_color=30363d" width="49%" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=false&border_color=30363d" width="98.5%" alt="Streak Stats" />
+  </p>
 </div>
 
 ---
