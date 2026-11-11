@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "login": "Deepesh70",
+  "seed": "#00BFFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stats",
+    "projects",
+    "streak",
+    "stack",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Software Engineer & Applied AI Developer",
+    "name": "Deepesh Dangi",
+    "subtitle": "B.Tech CSE student building scalable web platforms, distributed systems, and native AI tooling.",
+    "typing": true,
+    "avatarShape": "rounded",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "INDIA"
+      },
+      {
+        "icon": "code",
+        "label": "Full-Stack · Applied AI · C++"
+      },
+      {
+        "icon": "handshake",
+        "label": "Open to SDE Roles & Collaboration"
+      }
+    ]
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:linkedin",
+        "url": "https://www.linkedin.com/in/deepesh-dangi-377a1028a/"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/Deepesh70"
+      },
+      {
+        "icon": "brand:stackoverflow",
+        "url": "https://stackoverflow.com/users/31307423/deepesh"
+      },
+      {
+        "icon": "mail",
+        "url": "mailto:deepeshdangi700@gmail.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "about": {
+    "title": "About Me",
+    "items": [
+      {
+        "icon": "school",
+        "label": "B.Tech in Computer Science & Engineering"
+      },
+      {
+        "icon": "terminal",
+        "label": "Full-stack web applications, microservices, and distributed architectures"
+      },
+      {
+        "icon": "psychology",
+        "label": "Applied AI systems, LLM pipelines, and Model Context Protocol (MCP) tooling"
+      },
+      {
+        "icon": "architecture",
+        "label": "Core CS foundations in Data Structures, OS, and C++ game engine integrations"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech Stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          { "icon": "brand:cpp", "label": "C++" },
+          { "icon": "brand:python", "label": "Python" },
+          { "icon": "brand:ts", "label": "TypeScript" },
+          { "icon": "brand:js", "label": "JavaScript" },
+          { "icon": "brand:mysql", "label": "SQL" }
+        ]
+      },
+      {
+        "title": "Backend & Storage",
+        "items": [
+          { "icon": "brand:nodejs", "label": "Node.js" },
+          { "icon": "brand:fastapi", "label": "FastAPI" },
+          { "icon": "brand:express", "label": "Express" },
+          { "icon": "brand:postgres", "label": "PostgreSQL" },
+          { "icon": "brand:mongodb", "label": "MongoDB" },
+          { "icon": "brand:redis", "label": "Redis" }
+        ]
+      },
+      {
+        "title": "AI & Systems",
+        "items": [
+          { "icon": "brand:pytorch", "label": "PyTorch" },
+          { "icon": "brand:docker", "label": "Docker" },
+          { "icon": "brand:linux", "label": "Linux" },
+          { "icon": "brand:git", "label": "Git" }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Pin repositories on your profile to display them here.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub Analytics",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Contribution Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All Repositories",
+        "url": "https://github.com/Deepesh70?tab=repositories",
+        "style": "tonal"
+      },
+      {
+        "icon": "coffee",
+        "label": "Sponsor on Buy Me A Coffee",
+        "url": "https://buymeacoffee.com/deepesh70",
+        "style": "tonal"
+      }
+    ]
+  }
+}
