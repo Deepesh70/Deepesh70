@@ -1,121 +1,70 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=800&height=50&lines=deepesh%40systems-core%3A~%24+.%2Finit_profile.sh;%3E+B.Tech+CSE+%7C+Systems+%26+Applied+AI+Engineer;%3E+Co-Building+ScholarDive+%7C+scholardive.com;%3E+Author+of+Unreal-MCP+(Low-Latency+C%2B%2B+Integration)" alt="CLI Terminal Typing Banner" />
+# Deepesh Dangi
 
-  <h1>Deepesh Dangi</h1>
-  <p>
-    <code>[systems-engineer@dev-core ~]$</code> <strong>B.Tech in Computer Science & Engineering</strong><br />
-    <em>Building high-throughput platforms, low-latency C++ bindings, and native AI/LLM tooling.</em>
-  </p>
+**Software Engineer · B.Tech in Computer Science & Engineering**  
+[LinkedIn](https://www.linkedin.com/in/deepesh-dangi-377a1028a/) · [GitHub](https://github.com/Deepesh70) · [Stack Overflow](https://stackoverflow.com/users/31307423/deepesh) · [Email](mailto:deepeshdangi700@gmail.com)
 
-  <p>
-    <a href="https://www.linkedin.com/in/deepesh-dangi-377a1028a/" target="_blank">
-      <img src="https://img.shields.io/badge/terminal-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Deepesh70" target="_blank">
-      <img src="https://img.shields.io/badge/terminal-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://stackoverflow.com/users/31307423/deepesh" target="_blank">
-      <img src="https://img.shields.io/badge/terminal-Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-    </a>
-    <a href="mailto:deepeshdangi700@gmail.com">
-      <img src="https://img.shields.io/badge/terminal-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Deepesh70&label=SYS_UPTIME_HITS&color=00BFFF&style=for-the-badge" alt="Profile Views" />
-  </p>
-</div>
+Computer Science undergraduate specializing in **low-latency systems engineering (C++)**, **applied AI pipelines**, and **distributed backend platforms**. Co-building [ScholarDive](https://www.scholardive.com/) and architecting developer integrations such as [Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP). Focused on core computing principles: clean system boundaries, low-overhead inter-process communication, and scalable architecture.
 
 ---
 
-### `$ cat /etc/engineer.info`
+## Primary Engineering Projects
 
-```yaml
-identity:
-  name: "Deepesh Dangi"
-  degree: "B.Tech in Computer Science & Engineering"
-  location: "India"
-  status: "Open to SDE Internships, Systems Engineering & Applied AI Roles"
+### 1. [ScholarDive](https://www.scholardive.com/) — Adaptive Educational Assessment Ecosystem
+*Co-Builder · Full-Stack & Applied AI*  
+**Live Platform:** [scholardive.com](https://www.scholardive.com/)
 
-focus_areas:
-  - "Low-latency systems engineering & C++ game engine integrations"
-  - "Applied AI systems, agent workflows & Model Context Protocol (MCP)"
-  - "Distributed architectures, microservices & high-throughput caching"
-  - "Core CS: Data Structures & Algorithms, OS, DBMS, Computer Networks"
-```
+An adaptive educational assessment platform engineered to automate grading workflows and deliver personalized learning pathways.
+- **Automated Semantic Scoring:** Designed and implemented semantic evaluation microservices using custom NLP pipelines, reducing subjective manual grading overhead.
+- **High-Throughput Backend:** Engineered low-latency asynchronous backend services handling student submission ingestion, validation, and analytics reporting.
+- **Evaluation Feedback Loops:** Developed real-time telemetry pipelines to provide students with instant contextual feedback and performance tracking.
+- **Stack:** Python, FastAPI, PyTorch, Node.js, React, MongoDB.
 
 ---
 
-### `$ ./execute_showcase.sh --featured-projects`
+### 2. [Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP) — Model Context Protocol Host for Unreal Engine
+*Author · Systems & AI Tooling*  
+**Repository:** [github.com/Deepesh70/Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP)
 
-```bash
-[DEPLOYED] 01. ScholarDive (Live Production Platform)
-  ├─ URL:         https://www.scholardive.com/
-  ├─ Overview:    Adaptive educational assessment ecosystem automating grading workflows.
-  ├─ Engineering: Automated NLP semantic scoring pipelines, low-latency microservices,
-  │               and real-time student evaluation feedback loops.
-  └─ Tech Stack:  React · Node.js · FastAPI · MongoDB · Python · PyTorch
-
-[SYSTEMS]  02. Unreal-MCP (Open Source Host Integration)
-  ├─ Repository:  https://github.com/Deepesh70/Unreal-MCP
-  ├─ Overview:    Model Context Protocol (MCP) host integration for Unreal Engine.
-  ├─ Engineering: Connects external LLM reasoning agents to Unreal's C++ editor APIs;
-  │               implements structured RPCs for scene assets, actors, and viewport manipulation.
-  └─ Tech Stack:  C++ · Unreal Engine · Model Context Protocol · TypeScript
-
-[RESEARCH] 03. Mini GPT (Autoregressive Transformer From Scratch)
-  ├─ Repository:  https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer
-  ├─ Overview:    Decoder-only autoregressive language model trained from first principles.
-  ├─ Engineering: Multi-head self-attention, positional embeddings, CUDA batch loops,
-  │               and KV-cache inference convergence analysis.
-  └─ Tech Stack:  Python · PyTorch · Transformers · CUDA
-
-[CACHE]    04. GGStats (High-Throughput Telemetry Platform)
-  ├─ Repository:  https://github.com/Deepesh70/GGStats
-  ├─ Overview:    Telemetry analytics engine delivering live visual game statistics.
-  ├─ Engineering: In-memory Redis caching layer reducing upstream API rate limits;
-  │               engineered responsive dashboards with live visual telemetry rendering.
-  └─ Tech Stack:  React · TypeScript · Express · Redis · Tailwind CSS
-```
+An open-source integration that bridges local LLM reasoning agents into Unreal Engine using Anthropic's Model Context Protocol (MCP).
+- **Native Engine RPCs:** Engineered C++ bindings interfacing directly with Unreal Engine editor subsystems, enabling external reasoning models to automate viewport controls, actor transforms, and scene assets.
+- **Low-Latency IPC:** Structured inter-process communication inside the native engine runtime to guarantee responsive round-trip command execution.
+- **Stack:** C++, Unreal Engine, Model Context Protocol (MCP), TypeScript.
 
 ---
 
-### `$ ls -la /usr/local/bin/tech-stack`
+### 3. [Mini GPT](https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer) — Autoregressive Transformer from Scratch
+*Author · Machine Learning Foundations*  
+**Repository:** [github.com/Deepesh70/Mini_Generative_Pretrained_Transformer](https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer)
 
-<div align="center">
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,html,css,react,nextjs,tailwind,nodejs,fastapi,express,postgres,mongodb,redis,mysql,pytorch,docker,linux,git&perline=10&theme=dark" alt="Technical Arsenal" />
-  </a>
-  <br /><br />
-  <code>[20 binaries loaded across Languages, Systems, Backends, Databases & Tooling]</code>
-</div>
+A decoder-only autoregressive language model constructed and trained from mathematical first principles in PyTorch.
+- **First-Principles Implementation:** Built multi-head scaled dot-product attention, positional embeddings, layer normalization, and residual layers without relying on high-level abstraction frameworks.
+- **Training Optimization:** Structured custom tokenization schemes and GPU-accelerated batch training loops; benchmarked perplexity convergence and KV-cache inference mechanics.
+- **Stack:** Python, PyTorch, CUDA, Deep Learning.
 
 ---
 
-### `$ ./telemetry_diagnostics.sh --live-stats`
+### 4. [GGStats](https://github.com/Deepesh70/GGStats) — Distributed Game Telemetry Platform
+*Author · Backend & Distributed Caching*  
+**Repository:** [github.com/Deepesh70/GGStats](https://github.com/Deepesh70/GGStats)
 
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=false&border_color=00BFFF&count_private=true" width="49%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_color=00BFFF&count_private=true" width="49%" alt="Top Languages" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=false&border_color=00BFFF" width="98.5%" alt="Streak Stats" />
-  </p>
-</div>
+A gaming performance analytics platform providing players with visual telemetry insights.
+- **Caching Architecture:** Fronted third-party telemetry data with an in-memory Redis caching layer, mitigating external API rate limits and maximizing query throughput.
+- **Telemetry Visualizer:** Built a modular Express backend paired with responsive dashboards to render player performance trajectories in real time.
+- **Stack:** TypeScript, Express, Redis, React, Tailwind CSS.
 
 ---
 
-### `$ sudo echo "collaborate"`
+## Technical Competencies
 
-<div align="center">
-  <a href="https://buymeacoffee.com/deepesh70" target="_blank">
-    <img src="https://img.shields.io/badge/terminal-Sponsor_Deepesh-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Deepesh70?tab=repositories">
-    <img src="https://img.shields.io/badge/terminal-View_All_Repositories-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
-  </a>
-</div>
+- **Languages:** C++, Python, TypeScript, JavaScript, SQL
+- **Systems & Core CS:** Data Structures & Algorithms, Object-Oriented Design, Operating Systems, Inter-Process Communication (IPC), System Design
+- **Backend & Storage:** FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis
+- **AI & Systems Tooling:** PyTorch, Model Context Protocol (MCP), CUDA, Docker, Linux, Git
+
+---
+
+## Background & Availability
+
+- **Education:** Bachelor of Technology (B.Tech) in Computer Science & Engineering
+- **Interests:** Software Development Engineering (SDE) Internships, Systems Programming, and High-Impact Applied AI Roles
+- **Sponsorship:** [buymeacoffee.com/deepesh70](https://buymeacoffee.com/deepesh70)
