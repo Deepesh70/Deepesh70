@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/header.svg" alt="Deepesh Dangi, software engineer: low-latency systems, applied AI, distributed backends" width="100%">
+<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/header.svg?v=2" alt="Deepesh Dangi, software engineer: low-latency systems, applied AI, distributed backends" width="100%">
 
 <br>
 
@@ -32,12 +32,12 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
 
 <table>
   <tr>
-    <td width="50%"><a href="https://www.scholardive.com/"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-scholardive.svg" alt="ScholarDive" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/Deepesh70/Unreal-MCP"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-unreal-mcp.svg" alt="Unreal-MCP" width="100%"></a></td>
+    <td width="50%"><a href="https://www.scholardive.com/"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-scholardive.svg?v=2" alt="ScholarDive" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/Unreal-MCP"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-unreal-mcp.svg?v=2" alt="Unreal-MCP" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-mini-gpt.svg" alt="Mini GPT" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/Deepesh70/ai-anime-challenge"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-ai-anime.svg" alt="AI Anime Challenge" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-mini-gpt.svg?v=2" alt="Mini GPT" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/ai-anime-challenge"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-ai-anime.svg?v=2" alt="AI Anime Challenge" width="100%"></a></td>
   </tr>
 </table>
 
@@ -49,13 +49,9 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
 - **Submission backend.** Asynchronous, low-latency services for ingesting and validating student submissions and reporting analytics.
 - **Feedback loop.** Real-time telemetry so students see contextual feedback and performance tracking immediately.
 
-```mermaid
-flowchart LR
-  S[Student submission] --> API[Async ingestion and validation]
-  API --> NLP[Semantic scoring with PyTorch]
-  NLP --> DB[(MongoDB)]
-  DB --> FB[Real-time feedback and analytics]
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/diagram-scholardive.svg?v=2" alt="ScholarDive Pipeline Flow" width="100%">
+</p>
 
 </details>
 
@@ -66,12 +62,9 @@ flowchart LR
 - **Native engine RPCs.** C++ bindings into Unreal Engine editor subsystems so an external reasoning model can control the viewport, actor transforms and scene assets.
 - **Low-latency IPC.** Inter-process communication structured inside the native runtime for fast round-trip command execution.
 
-```mermaid
-flowchart LR
-  A[LLM agent] -->|MCP tool calls| B[MCP server in TypeScript]
-  B -->|IPC| C[C++ editor bindings]
-  C --> D[Viewport, actors, assets]
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/diagram-unreal-mcp.svg?v=2" alt="Unreal-MCP Architecture" width="100%">
+</p>
 
 </details>
 
@@ -113,20 +106,12 @@ flowchart LR
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepesh70/Deepesh70/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepesh70/Deepesh70/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/output/github-snake-dark.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/activity.svg?v=2" alt="Contribution Graph" width="100%">
 
 <br><br>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Deepesh70&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1222&title_color=a78bfa&icon_color=22d3ee&include_all_commits=true" alt="GitHub stats">
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1222&title_color=a78bfa" alt="Top languages">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=true&background=0d1222&ring=22d3ee&fire=f472b6&currStreakLabel=a78bfa" width="100%" alt="Contribution streak">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Deepesh70&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats">
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9" alt="Top languages">
 
 </div>
 

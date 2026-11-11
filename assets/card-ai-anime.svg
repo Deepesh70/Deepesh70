@@ -1,17 +1,17 @@
 <svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Anime Challenge: Video super-resolution and restoration">
   <defs>
-    <clipPath id="c_anime"><rect width="480" height="200" rx="10"/></clipPath>
+    <clipPath id="c4"><rect width="480" height="200" rx="10"/></clipPath>
   </defs>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
   </style>
 
-  <g clip-path="url(#c_anime)">
+  <g clip-path="url(#c4)">
     <rect width="480" height="200" fill="#0d1117"/>
     <rect x="0" y="0" width="480" height="1" fill="#30363d"/>
 
-    <text class="mono" x="24" y="38" font-size="12" font-weight="600" fill="#f43f5e">COMPUTER VISION &amp; SUPER-RES</text>
+    <text class="mono" x="24" y="38" font-size="12" font-weight="600" fill="#00BFFF">COMPUTER VISION · SUPER-RES</text>
     <text x="24" y="70" font-size="20" font-weight="600" fill="#f0f6fc">AI Anime Challenge</text>
     <text class="mono" x="228" y="70" font-size="13" fill="#8b949e">WACV 2027 Workshop</text>
 

@@ -1,0 +1,72 @@
+<svg width="920" height="170" viewBox="0 0 920 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ScholarDive Architecture Diagram">
+  <defs>
+    <clipPath id="p_sd"><rect width="920" height="170" rx="8"/></clipPath>
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#00BFFF"/>
+    </marker>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  </style>
+
+  <g clip-path="url(#p_sd)">
+    <rect width="920" height="170" fill="#0d1117"/>
+    <rect x="0" y="0" width="920" height="1" fill="#30363d"/>
+
+    <!-- Section Title -->
+    <text class="mono" x="24" y="26" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">SCHOLARDIVE · END-TO-END GRADING PIPELINE</text>
+
+    <!-- Connectors -->
+    <line x1="168" y1="96" x2="202" y2="96" stroke="#30363d" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <line x1="348" y1="96" x2="382" y2="96" stroke="#30363d" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <line x1="528" y1="96" x2="562" y2="96" stroke="#30363d" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <line x1="708" y1="96" x2="742" y2="96" stroke="#30363d" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+    <!-- Node 1 -->
+    <g transform="translate(24, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">01 · SUBMISSION</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">Student Client</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">React · Vite</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Input payload</text>
+    </g>
+
+    <!-- Node 2 -->
+    <g transform="translate(204, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">02 · INGESTION</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">Async Gateway</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">FastAPI · ASGI</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Schema validate</text>
+    </g>
+
+    <!-- Node 3 -->
+    <g transform="translate(384, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">03 · NLP PIPELINE</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">Semantic Scoring</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">PyTorch Model</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Context inference</text>
+    </g>
+
+    <!-- Node 4 -->
+    <g transform="translate(564, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">04 · STORAGE</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">Persistence</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">MongoDB</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Audit &amp; scores</text>
+    </g>
+
+    <!-- Node 5 -->
+    <g transform="translate(744, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">05 · TELEMETRY</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">Feedback Loop</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">Live Analytics</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Student dashboard</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="919" height="169" rx="7.5" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>

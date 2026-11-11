@@ -1,0 +1,72 @@
+<svg width="920" height="170" viewBox="0 0 920 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Unreal-MCP Architecture Diagram">
+  <defs>
+    <clipPath id="p_umcp"><rect width="920" height="170" rx="8"/></clipPath>
+    <marker id="arrow2" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#00BFFF"/>
+    </marker>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  </style>
+
+  <g clip-path="url(#p_umcp)">
+    <rect width="920" height="170" fill="#0d1117"/>
+    <rect x="0" y="0" width="920" height="1" fill="#30363d"/>
+
+    <!-- Section Title -->
+    <text class="mono" x="24" y="26" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">UNREAL-MCP · MODEL CONTEXT PROTOCOL &amp; NATIVE IPC PIPELINE</text>
+
+    <!-- Connectors -->
+    <line x1="168" y1="96" x2="202" y2="96" stroke="#30363d" stroke-width="1.5" marker-end="url(#arrow2)"/>
+    <line x1="348" y1="96" x2="382" y2="96" stroke="#30363d" stroke-width="1.5" marker-end="url(#arrow2)"/>
+    <line x1="528" y1="96" x2="562" y2="96" stroke="#30363d" stroke-width="1.5" marker-end="url(#arrow2)"/>
+    <line x1="708" y1="96" x2="742" y2="96" stroke="#30363d" stroke-width="1.5" marker-end="url(#arrow2)"/>
+
+    <!-- Node 1 -->
+    <g transform="translate(24, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">01 · REASONING</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">LLM Agent</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">Claude / GPT / Local</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">JSON-RPC tool call</text>
+    </g>
+
+    <!-- Node 2 -->
+    <g transform="translate(204, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">02 · MCP SERVER</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">Protocol Host</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">TypeScript · Node</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Schema dispatch</text>
+    </g>
+
+    <!-- Node 3 -->
+    <g transform="translate(384, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">03 · TRANSPORT</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">Low-Latency IPC</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">Native Sockets</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Direct byte stream</text>
+    </g>
+
+    <!-- Node 4 -->
+    <g transform="translate(564, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">04 · SUBSYSTEM</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">C++ Bindings</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">Unreal C++17</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Editor RPC handler</text>
+    </g>
+
+    <!-- Node 5 -->
+    <g transform="translate(744, 46)">
+      <rect width="144" height="100" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="12" y="22" font-size="10" font-weight="600" fill="#8b949e">05 · EXECUTION</text>
+      <text x="12" y="44" font-size="13" font-weight="600" fill="#f0f6fc">Unreal World</text>
+      <text class="mono" x="12" y="66" font-size="11" fill="#00BFFF">Viewport &amp; Actors</text>
+      <text x="12" y="85" font-size="10.5" fill="#8b949e">Realtime mutate</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="919" height="169" rx="7.5" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>
