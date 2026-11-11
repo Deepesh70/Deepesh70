@@ -33,7 +33,7 @@
         "label": "Full-Stack · Applied AI · C++"
       },
       {
-        "icon": "handshake",
+        "icon": "group",
         "label": "Open to SDE Roles & Collaboration"
       }
     ]
@@ -45,16 +45,12 @@
         "url": "https://www.linkedin.com/in/deepesh-dangi-377a1028a/"
       },
       {
-        "icon": "brand:github",
+        "icon": "brand:git",
         "url": "https://github.com/Deepesh70"
       },
       {
         "icon": "brand:stackoverflow",
         "url": "https://stackoverflow.com/users/31307423/deepesh"
-      },
-      {
-        "icon": "mail",
-        "url": "mailto:deepeshdangi700@gmail.com"
       }
     ],
     "variant": "chip",
@@ -65,7 +61,7 @@
     "title": "About Me",
     "items": [
       {
-        "icon": "school",
+        "icon": "person",
         "label": "B.Tech in Computer Science & Engineering"
       },
       {
@@ -73,11 +69,11 @@
         "label": "Full-stack web applications, microservices, and distributed architectures"
       },
       {
-        "icon": "psychology",
+        "icon": "code",
         "label": "Applied AI systems, LLM pipelines, and Model Context Protocol (MCP) tooling"
       },
       {
-        "icon": "architecture",
+        "icon": "deployed_code",
         "label": "Core CS foundations in Data Structures, OS, and C++ game engine integrations"
       }
     ]
@@ -88,20 +84,20 @@
       {
         "title": "Languages",
         "items": [
-          { "icon": "brand:cpp", "label": "C++" },
+          { "icon": "brand:cplusplus", "label": "C++" },
           { "icon": "brand:python", "label": "Python" },
-          { "icon": "brand:ts", "label": "TypeScript" },
-          { "icon": "brand:js", "label": "JavaScript" },
+          { "icon": "brand:typescript", "label": "TypeScript" },
+          { "icon": "brand:javascript", "label": "JavaScript" },
           { "icon": "brand:mysql", "label": "SQL" }
         ]
       },
       {
         "title": "Backend & Storage",
         "items": [
-          { "icon": "brand:nodejs", "label": "Node.js" },
+          { "icon": "brand:nodedotjs", "label": "Node.js" },
           { "icon": "brand:fastapi", "label": "FastAPI" },
           { "icon": "brand:express", "label": "Express" },
-          { "icon": "brand:postgres", "label": "PostgreSQL" },
+          { "icon": "brand:postgresql", "label": "PostgreSQL" },
           { "icon": "brand:mongodb", "label": "MongoDB" },
           { "icon": "brand:redis", "label": "Redis" }
         ]
@@ -150,7 +146,7 @@
         "style": "tonal"
       },
       {
-        "icon": "coffee",
+        "icon": "favorite",
         "label": "Sponsor on Buy Me A Coffee",
         "url": "https://buymeacoffee.com/deepesh70",
         "style": "tonal"
