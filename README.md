@@ -1,164 +1,141 @@
 <div align="center">
 
-<!-- Custom Soft-Animated SVG Header -->
-<img src="./assets/header.svg" alt="Deepesh Dangi — Systems & Applied AI Engineer" width="100%" />
+<img src="assets/header.svg" alt="Deepesh Dangi, software engineer: low-latency systems, applied AI, distributed backends" width="100%">
 
-<br />
+<br>
 
-<!-- Soft Typing Animation for Core Focus Areas -->
-<a href="https://github.com/Deepesh70">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Native+C%2B%2B+Subsystems+%26+Low-Overhead+IPC+for+Unreal+Engine;Autoregressive+Transformers+%26+Hybrid+NLP+Evaluation+Pipelines;Asynchronous+FastAPI+%2F+Node.js+Backends+%26+Redis+Caching+Layers;Clean+System+Boundaries+%C2%B7+Deterministic+Schemas+%C2%B7+Scalable+Tooling" alt="Typing SVG" />
-</a>
+<a href="https://www.linkedin.com/in/deepesh-dangi-377a1028a/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square" alt="LinkedIn"></a>
+<a href="https://stackoverflow.com/users/31307423/deepesh"><img src="https://img.shields.io/badge/Stack%20Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+<a href="mailto:deepeshdangi700@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.scholardive.com/"><img src="https://img.shields.io/badge/ScholarDive-live-8b5cf6?style=flat-square" alt="ScholarDive"></a>
+<a href="https://buymeacoffee.com/deepesh70"><img src="https://img.shields.io/badge/Sponsor-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
+<img src="https://komarev.com/ghpvc/?username=Deepesh70&style=flat-square&color=22d3ee&label=profile+views" alt="Profile views">
 
-<br />
-
-<!-- Navigation & Contact Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepesh70)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/YOUR-ID)
-[![ScholarDive](https://img.shields.io/badge/ScholarDive_Live-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://scholardive.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@domain.com)
+<img src="assets/divider.svg" width="100%" alt="">
 
 </div>
 
-<br />
+## About
 
-## `01` // Engineering Focus & Architecture Philosophy
+Computer science undergraduate focused on **low-latency systems (C++)**, **applied AI pipelines** and **distributed backend platforms**. I co-build [ScholarDive](https://www.scholardive.com/) and author [Unreal-MCP](https://github.com/Deepesh70/Unreal-MCP), a bridge that lets LLM agents drive Unreal Engine. I care about clean system boundaries, low-overhead inter-process communication and architecture that scales.
 
-I am a Computer Science undergraduate (**B.Tech CSE**) building at the intersection of **native C++ runtime systems**, **from-scratch machine learning pipelines**, and **high-concurrency web backends**.
+| | |
+|---|---|
+| **Building** | ScholarDive, an adaptive assessment platform with NLP-based grading |
+| **Shipped open source** | Unreal-MCP, Mini GPT, GGStats |
+| **Strongest at** | C++ and Python, backend services, ML from first principles |
+| **Looking for** | SDE internships, systems programming, high-impact applied AI roles |
 
-* **Systems & Engine Tooling:** Designing native C++ editor subsystems, procedural geometry generators, and JSON-RPC/WebSocket bridges that allow external LLM agents to manipulate 3D engine state with minimal frame-time overhead.
-* **Applied AI & NLP Pipelines:** Moving beyond raw API wrappers by implementing custom Transformer architectures from mathematical first principles and engineering structured, schema-validated evaluation pipelines in production.
-* **Backend & Caching Mechanics:** Building asynchronous ingestion services in FastAPI and Express, backed by strict schema validation, MongoDB staging pipelines, and Redis cache-aside layers to handle burst traffic and third-party rate limits.
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 
-<br />
-
-## `02` // Primary Engineering Systems
+## Featured projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://scholardive.com">ScholarDive</a> — Adaptive Assessment Platform</h3>
-      <p><b>Co-Builder · Full-Stack & Applied AI</b></p>
-      <p>An automated educational assessment and practice platform featuring real-time question generation, semantic grading pipelines, and interactive learning interfaces.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <details>
-        <summary><b>View Architectural Breakdown</b></summary>
-        <br />
-        <ul>
-          <li><b>Semantic Scoring Pipeline:</b> Engineered FastAPI/LangChain evaluation microservices with strict schema validation to grade open-ended submissions and eliminate subjective manual grading bottlenecks.</li>
-          <li><b>On-The-Fly Arena Generation:</b> Built asynchronous question-generation workflows with MongoDB staging and validation layers to serve adaptive difficulty curves.</li>
-          <li><b>Real-Time Telemetry Loop:</b> Designed low-latency ingestion endpoints that compute per-topic mastery metrics and stream immediate contextual feedback to students.</li>
-        </ul>
-      </details>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Deepesh70/Unreal-MCP">Unreal-MCP</a> — Engine Model Context Protocol Host</h3>
-      <p><b>Author · C++ Systems & AI Tooling</b></p>
-      <p>An open-source bridge connecting local LLM reasoning agents directly into the Unreal Engine runtime via Anthropic's Model Context Protocol (MCP).</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-1E293B?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <details>
-        <summary><b>View Architectural Breakdown</b></summary>
-        <br />
-        <ul>
-          <li><b>Native Engine RPCs:</b> Authored C++ bindings interfacing with Unreal Editor subsystems, Geometry Scripting, and HISM components to expose actor transforms, procedural mesh generation, and scene graphs to external agents.</li>
-          <li><b>Low-Overhead IPC Transport:</b> Structured asynchronous request/response handling across the engine boundary to execute tool calls on the game thread safely without blocking viewport rendering.</li>
-          <li><b>Live Telemetry & Control UI:</b> Paired with a WebSocket-driven dashboard to inspect MCP tool execution, payload schemas, and live engine state.</li>
-        </ul>
-      </details>
-    </td>
+    <td width="50%"><a href="https://www.scholardive.com/"><img src="assets/card-scholardive.svg" alt="ScholarDive" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/Unreal-MCP"><img src="assets/card-unreal-mcp.svg" alt="Unreal-MCP" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer">Mini GPT</a> — Autoregressive Transformer</h3>
-      <p><b>Author · Machine Learning Foundations</b></p>
-      <p>A decoder-only autoregressive language model implemented and trained from mathematical first principles in PyTorch without high-level `nn.Transformer` abstractions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Deep_Learning-0F172A?style=flat-square" />
-      </p>
-      <details>
-        <summary><b>View Architectural Breakdown</b></summary>
-        <br />
-        <ul>
-          <li><b>First-Principles Tensor Ops:</b> Hand-built causal masked multi-head scaled dot-product attention, learned positional embeddings, pre-norm residual connections, and feed-forward projections.</li>
-          <li><b>Training & KV-Cache Mechanics:</b> Engineered custom tokenization pipelines, CUDA-accelerated mini-batch training loops with cosine learning-rate scheduling, and benchmarked KV-cache autoregressive decoding vs. naive recomputation.</li>
-        </ul>
-      </details>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Deepesh70/GGStats">GGStats</a> — Telemetry Caching & Analytics Engine</h3>
-      <p><b>Author · Backend & Caching Architecture</b></p>
-      <p>A high-concurrency gaming telemetry aggregator and analytics platform designed to bypass strict upstream API rate limits while serving real-time player insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <details>
-        <summary><b>View Architectural Breakdown</b></summary>
-        <br />
-        <ul>
-          <li><b>Cache-Aside Telemetry Proxy:</b> Fronted external Riot Games REST APIs with an in-memory Redis caching layer using tiered TTL eviction policies to absorb repeated profile lookups and prevent HTTP 429 throttling.</li>
-          <li><b>Real-Time Analytics Pipeline:</b> Built a modular Express aggregation layer that normalizes raw match history payloads into time-series combat metrics rendered on responsive React dashboards.</li>
-        </ul>
-      </details>
-    </td>
+    <td width="50%"><a href="https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer"><img src="assets/card-mini-gpt.svg" alt="Mini GPT" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/GGStats"><img src="assets/card-ggstats.svg" alt="GGStats" width="100%"></a></td>
   </tr>
 </table>
 
-<br />
+<details>
+<summary><b>ScholarDive</b>: what I built and how it fits together</summary>
+<br>
 
-## `03` // Technical Competencies
+- **Semantic scoring.** Evaluation microservices on custom NLP pipelines that cut the manual, subjective part of grading.
+- **Submission backend.** Asynchronous, low-latency services for ingesting and validating student submissions and reporting analytics.
+- **Feedback loop.** Real-time telemetry so students see contextual feedback and performance tracking immediately.
 
-| Domain | Core Technologies & Concepts |
-| :--- | :--- |
-| **Languages** | `C++` · `Python` · `TypeScript` · `JavaScript (ES6+)` · `SQL` |
-| **Systems & Core CS** | `Inter-Process Communication (IPC)` · `Memory Management` · `Concurrency` · `Data Structures & Algorithms` · `OS Internals` · `System Design` |
-| **Backend & Data** | `FastAPI` · `Node.js` · `Express` · `Redis (Caching/PubSub)` · `PostgreSQL` · `MongoDB` · `REST & WebSockets` |
-| **AI & Engine Tooling** | `PyTorch` · `Model Context Protocol (MCP)` · `Transformer Architectures` · `BERT/RoBERTa` · `Unreal Engine C++ / Blueprints` · `CUDA` |
-| **DevOps & Environment** | `Docker` · `Linux (WSL2)` · `Git / GitHub Actions` · `Next.js` · `React 19` · `GSAP / Three.js` |
+```mermaid
+flowchart LR
+  S[Student submission] --> API[Async ingestion and validation]
+  API --> NLP[Semantic scoring with PyTorch]
+  NLP --> DB[(MongoDB)]
+  DB --> FB[Real-time feedback and analytics]
+```
 
-<br />
+</details>
 
-## `04` // Activity & Telemetry
+<details>
+<summary><b>Unreal-MCP</b>: what I built and how it fits together</summary>
+<br>
+
+- **Native engine RPCs.** C++ bindings into Unreal Engine editor subsystems so an external reasoning model can control the viewport, actor transforms and scene assets.
+- **Low-latency IPC.** Inter-process communication structured inside the native runtime for fast round-trip command execution.
+
+```mermaid
+flowchart LR
+  A[LLM agent] -->|MCP tool calls| B[MCP server in TypeScript]
+  B -->|IPC| C[C++ editor bindings]
+  C --> D[Viewport, actors, assets]
+```
+
+</details>
+
+<details>
+<summary><b>Mini GPT</b>: what I built</summary>
+<br>
+
+- **First principles.** Multi-head scaled dot-product attention, positional embeddings, layer normalization and residual layers, written without high-level abstraction frameworks.
+- **Training.** Custom tokenization and GPU-accelerated batch training loops, with perplexity convergence benchmarks and KV-cache inference.
+
+</details>
+
+<details>
+<summary><b>GGStats</b>: what I built</summary>
+<br>
+
+- **Caching.** An in-memory Redis layer in front of third-party telemetry APIs to get around rate limits and raise query throughput.
+- **Visualizer.** A modular Express backend with responsive dashboards that render player performance trajectories in real time.
+
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+
+## Stack
+
+<div align="center"><img src="assets/stack.svg" alt="Languages: C++, Python, TypeScript, JavaScript, SQL. Backend: FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis. AI and tooling: PyTorch, CUDA, MCP, Docker, Linux, Git." width="100%"></div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+
+## How I like to build
+
+| Clean system boundaries | Low-overhead IPC | Scalable by design |
+|---|---|---|
+| Small services with clear contracts, so scoring, ingestion and analytics can change independently. | Keep the hot path inside the process and the messages between processes small. | Cache in front of slow or rate-limited dependencies, and keep the write path asynchronous. |
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+
+## Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=true&background=090D16&stroke=1E293B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=true&background=090D16&stroke=1E293B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepesh70/Deepesh70/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepesh70/Deepesh70/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/output/github-snake-dark.svg" width="100%">
+</picture>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1222&title_color=a78bfa&icon_color=22d3ee&include_all_commits=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1222&title_color=a78bfa" alt="Top languages">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepesh70&theme=tokyo-night&hide_border=true&bg_color=0d1222&color=a78bfa&line=22d3ee&point=f472b6" width="100%" alt="Contribution graph">
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepesh70&bg_color=090D16&color=94A3B8&line=38BDF8&point=818CF8&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<br>
+
+If something here is useful, you can [buy me a coffee](https://buymeacoffee.com/deepesh70).
+
+<img src="assets/footer.svg" width="100%" alt="">
+
 </div>
-
-<br />
-
-## `05` // Background & Availability
-
-* **Education:** Bachelor of Technology (B.Tech) in Computer Science & Engineering
-* **Target Roles:** Software Development Engineering (SDE) Internships, Systems Programming, and Applied AI Engineering
-* **Support Open-Source Work:** [buymeacoffee.com/deepesh70](https://buymeacoffee.com/deepesh70)

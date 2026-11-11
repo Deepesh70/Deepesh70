@@ -1,0 +1,51 @@
+<svg width="1000" height="330" viewBox="0 0 1000 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technical stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1222"/><stop offset="1" stop-color="#141b33"/></linearGradient>
+    <linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="cp"><rect width="1000" height="330" rx="18"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}
+    .sweep{animation:sweep 14s ease-in-out infinite}
+    @keyframes sweep{0%{transform:translateX(-300px) skewX(-18deg)}40%,100%{transform:translateX(1200px) skewX(-18deg)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <g clip-path="url(#cp)">
+    <rect width="1000" height="330" fill="url(#bg)"/>
+    <rect class="sweep" width="240" height="330" fill="url(#sw)"/>
+    <text x="32" y="51" font-size="14" font-weight="600" fill="#e2e8f0">Languages</text>
+    <rect x="250" y="34" width="46" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".38"/><text class="mono" x="273.0" y="51.2" text-anchor="middle" font-size="12" fill="#a78bfa">C++</text>
+    <rect x="304" y="34" width="67" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".38"/><text class="mono" x="337.5" y="51.2" text-anchor="middle" font-size="12" fill="#a78bfa">Python</text>
+    <rect x="379" y="34" width="96" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".38"/><text class="mono" x="427.0" y="51.2" text-anchor="middle" font-size="12" fill="#a78bfa">TypeScript</text>
+    <rect x="483" y="34" width="96" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".38"/><text class="mono" x="531.0" y="51.2" text-anchor="middle" font-size="12" fill="#a78bfa">JavaScript</text>
+    <rect x="587" y="34" width="46" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".38"/><text class="mono" x="610.0" y="51.2" text-anchor="middle" font-size="12" fill="#a78bfa">SQL</text>
+    <rect x="32" y="75" width="936" height="1" fill="#ffffff" fill-opacity=".06"/>
+    <text x="32" y="109" font-size="14" font-weight="600" fill="#e2e8f0">Systems and core CS</text>
+    <rect x="250" y="92" width="46" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="273.0" y="109.2" text-anchor="middle" font-size="12" fill="#22d3ee">DSA</text>
+    <rect x="304" y="92" width="46" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="327.0" y="109.2" text-anchor="middle" font-size="12" fill="#22d3ee">OOP</text>
+    <rect x="358" y="92" width="146" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="431.0" y="109.2" text-anchor="middle" font-size="12" fill="#22d3ee">Operating Systems</text>
+    <rect x="512" y="92" width="46" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="535.0" y="109.2" text-anchor="middle" font-size="12" fill="#22d3ee">IPC</text>
+    <rect x="566" y="92" width="118" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="625.0" y="109.2" text-anchor="middle" font-size="12" fill="#22d3ee">System Design</text>
+    <rect x="32" y="133" width="936" height="1" fill="#ffffff" fill-opacity=".06"/>
+    <text x="32" y="167" font-size="14" font-weight="600" fill="#e2e8f0">Backend and storage</text>
+    <rect x="250" y="150" width="74" height="26" rx="13.0" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".38"/><text class="mono" x="287.0" y="167.2" text-anchor="middle" font-size="12" fill="#4ade80">FastAPI</text>
+    <rect x="332" y="150" width="74" height="26" rx="13.0" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".38"/><text class="mono" x="369.0" y="167.2" text-anchor="middle" font-size="12" fill="#4ade80">Node.js</text>
+    <rect x="414" y="150" width="74" height="26" rx="13.0" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".38"/><text class="mono" x="451.0" y="167.2" text-anchor="middle" font-size="12" fill="#4ade80">Express</text>
+    <rect x="496" y="150" width="96" height="26" rx="13.0" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".38"/><text class="mono" x="544.0" y="167.2" text-anchor="middle" font-size="12" fill="#4ade80">PostgreSQL</text>
+    <rect x="600" y="150" width="74" height="26" rx="13.0" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".38"/><text class="mono" x="637.0" y="167.2" text-anchor="middle" font-size="12" fill="#4ade80">MongoDB</text>
+    <rect x="682" y="150" width="60" height="26" rx="13.0" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".38"/><text class="mono" x="712.0" y="167.2" text-anchor="middle" font-size="12" fill="#4ade80">Redis</text>
+    <rect x="32" y="191" width="936" height="1" fill="#ffffff" fill-opacity=".06"/>
+    <text x="32" y="225" font-size="14" font-weight="600" fill="#e2e8f0">Frontend</text>
+    <rect x="250" y="208" width="60" height="26" rx="13.0" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".38"/><text class="mono" x="280.0" y="225.2" text-anchor="middle" font-size="12" fill="#fbbf24">React</text>
+    <rect x="318" y="208" width="110" height="26" rx="13.0" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".38"/><text class="mono" x="373.0" y="225.2" text-anchor="middle" font-size="12" fill="#fbbf24">Tailwind CSS</text>
+    <rect x="32" y="249" width="936" height="1" fill="#ffffff" fill-opacity=".06"/>
+    <text x="32" y="283" font-size="14" font-weight="600" fill="#e2e8f0">AI and tooling</text>
+    <rect x="250" y="266" width="74" height="26" rx="13.0" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".38"/><text class="mono" x="287.0" y="283.2" text-anchor="middle" font-size="12" fill="#f472b6">PyTorch</text>
+    <rect x="332" y="266" width="53" height="26" rx="13.0" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".38"/><text class="mono" x="358.5" y="283.2" text-anchor="middle" font-size="12" fill="#f472b6">CUDA</text>
+    <rect x="393" y="266" width="46" height="26" rx="13.0" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".38"/><text class="mono" x="416.0" y="283.2" text-anchor="middle" font-size="12" fill="#f472b6">MCP</text>
+    <rect x="447" y="266" width="67" height="26" rx="13.0" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".38"/><text class="mono" x="480.5" y="283.2" text-anchor="middle" font-size="12" fill="#f472b6">Docker</text>
+    <rect x="522" y="266" width="60" height="26" rx="13.0" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".38"/><text class="mono" x="552.0" y="283.2" text-anchor="middle" font-size="12" fill="#f472b6">Linux</text>
+    <rect x="590" y="266" width="46" height="26" rx="13.0" fill="#f472b6" fill-opacity=".12" stroke="#f472b6" stroke-opacity=".38"/><text class="mono" x="613.0" y="283.2" text-anchor="middle" font-size="12" fill="#f472b6">Git</text>
+  </g>
+  <rect x=".5" y=".5" width="999" height="329" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+</svg>
