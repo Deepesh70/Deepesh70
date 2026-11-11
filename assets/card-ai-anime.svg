@@ -1,0 +1,36 @@
+<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Anime Challenge: Video super-resolution and restoration">
+  <defs>
+    <clipPath id="c_anime"><rect width="480" height="200" rx="10"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  </style>
+
+  <g clip-path="url(#c_anime)">
+    <rect width="480" height="200" fill="#0d1117"/>
+    <rect x="0" y="0" width="480" height="1" fill="#30363d"/>
+
+    <text class="mono" x="24" y="38" font-size="12" font-weight="600" fill="#f43f5e">COMPUTER VISION &amp; SUPER-RES</text>
+    <text x="24" y="70" font-size="20" font-weight="600" fill="#f0f6fc">AI Anime Challenge</text>
+    <text class="mono" x="228" y="70" font-size="13" fill="#8b949e">WACV 2027 Workshop</text>
+
+    <text x="24" y="104" font-size="13.5" fill="#8b949e">Domain-specific restoration pipeline for broadcast anime video on</text>
+    <text x="24" y="126" font-size="13.5" fill="#8b949e">the Re-Anime600 benchmark; guided filtering and temporal consistency.</text>
+
+    <g transform="translate(24, 152)">
+      <rect width="68" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="34" y="16" text-anchor="middle" font-size="11" fill="#c9d1d9">PyTorch</text>
+
+      <rect x="76" width="118" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="135" y="16" text-anchor="middle" font-size="11" fill="#c9d1d9">Computer Vision</text>
+
+      <rect x="202" width="76" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="240" y="16" text-anchor="middle" font-size="11" fill="#c9d1d9">Super-Res</text>
+
+      <rect x="286" width="56" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="314" y="16" text-anchor="middle" font-size="11" fill="#c9d1d9">CUDA</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="479" height="199" rx="9.5" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>

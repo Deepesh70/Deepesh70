@@ -22,7 +22,7 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
 | | |
 |---|---|
 | **Building** | ScholarDive, an adaptive assessment platform with NLP-based grading |
-| **Shipped open source** | Unreal-MCP, Mini GPT, GGStats |
+| **Shipped open source** | Unreal-MCP, Mini GPT, AI Anime Challenge |
 | **Strongest at** | C++ and Python, backend services, ML from first principles |
 | **Looking for** | SDE internships, systems programming, high-impact applied AI roles |
 
@@ -37,7 +37,7 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-mini-gpt.svg" alt="Mini GPT" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/Deepesh70/GGStats"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-ggstats.svg" alt="GGStats" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/ai-anime-challenge"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-ai-anime.svg" alt="AI Anime Challenge" width="100%"></a></td>
   </tr>
 </table>
 
@@ -85,11 +85,11 @@ flowchart LR
 </details>
 
 <details>
-<summary><b>GGStats</b>: what I built</summary>
+<summary><b>AI Anime Challenge</b>: what I built</summary>
 <br>
 
-- **Caching.** An in-memory Redis layer in front of third-party telemetry APIs to get around rate limits and raise query throughput.
-- **Visualizer.** A modular Express backend with responsive dashboards that render player performance trajectories in real time.
+- **Domain restoration.** Engineered a video restoration and super-resolution pipeline targeting broadcast anime video on the Re-Anime600 benchmark (AINIME Challenge @ WACV 2027 Workshop).
+- **Temporal consistency.** Implemented guided filtering and temporal consistency algorithms in PyTorch and CUDA to suppress compression artifacts and edge flickering.
 
 </details>
 

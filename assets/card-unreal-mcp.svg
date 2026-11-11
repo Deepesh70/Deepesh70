@@ -1,30 +1,36 @@
-<svg width="480" height="212" viewBox="0 0 480 212" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Unreal-MCP: Model Context Protocol host for Unreal Engine">
+<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Unreal-MCP: Model Context Protocol for Unreal Engine">
   <defs>
-    <linearGradient id="bgg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1222"/><stop offset="1" stop-color="#141b33"/></linearGradient>
-    <linearGradient id="topg1" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
-    <linearGradient id="swg1" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-    <clipPath id="cpg1"><rect width="480" height="212" rx="18"/></clipPath>
+    <clipPath id="c2"><rect width="480" height="200" rx="10"/></clipPath>
   </defs>
   <style>
-    text{font-family:'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}
-    .sweep{animation:sweep 10s ease-in-out 2s infinite}
-    @keyframes sweep{0%{transform:translateX(-220px) skewX(-18deg)}35%,100%{transform:translateX(560px) skewX(-18deg)}}
-    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
   </style>
-  <g clip-path="url(#cpg1)">
-    <rect width="480" height="212" fill="url(#bgg1)"/>
-    <rect width="480" height="3" fill="url(#topg1)"/>
-    <rect class="sweep" x="0" y="0" width="150" height="212" fill="url(#swg1)"/>
-    <rect x="24" y="26" width="46" height="46" rx="13" fill="#22d3ee" fill-opacity=".14" stroke="#22d3ee" stroke-opacity=".45"/>
-    <text class="mono" x="47" y="55" text-anchor="middle" font-size="16" font-weight="700" fill="#22d3ee">{ }</text>
-    <text x="84" y="46" font-size="22" font-weight="700" fill="#f1f5f9">Unreal-MCP</text>
-    <text x="84" y="65" font-size="13" fill="#94a3b8">Model Context Protocol host for Unreal Engine</text>
-    <text x="24" y="108" font-size="13.5" fill="#cbd5e1">C++ bindings let LLM agents drive the editor: viewport,</text>
-    <text x="24" y="128" font-size="13.5" fill="#cbd5e1">actor transforms and scene assets over low-latency IPC.</text>
-    <rect x="24" y="160" width="46" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="47.0" y="177.2" text-anchor="middle" font-size="12" fill="#22d3ee">C++</text>
-    <rect x="78" y="160" width="118" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="137.0" y="177.2" text-anchor="middle" font-size="12" fill="#22d3ee">Unreal Engine</text>
-    <rect x="204" y="160" width="46" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="227.0" y="177.2" text-anchor="middle" font-size="12" fill="#22d3ee">MCP</text>
-    <rect x="258" y="160" width="96" height="26" rx="13.0" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee" stroke-opacity=".38"/><text class="mono" x="306.0" y="177.2" text-anchor="middle" font-size="12" fill="#22d3ee">TypeScript</text>
+
+  <g clip-path="url(#c2)">
+    <rect width="480" height="200" fill="#0d1117"/>
+    <rect x="0" y="0" width="480" height="1" fill="#30363d"/>
+
+    <text class="mono" x="24" y="38" font-size="12" font-weight="600" fill="#38bdf8">OPEN SOURCE HOST INTEGRATION</text>
+    <text x="24" y="70" font-size="20" font-weight="600" fill="#f0f6fc">Unreal-MCP</text>
+    <text class="mono" x="156" y="70" font-size="13" fill="#8b949e">C++ Editor Subsystem</text>
+
+    <text x="24" y="104" font-size="13.5" fill="#8b949e">Bridges local LLM reasoning models to Unreal Engine's editor</text>
+    <text x="24" y="126" font-size="13.5" fill="#8b949e">APIs via structured RPCs and low-latency IPC.</text>
+
+    <g transform="translate(24, 152)">
+      <rect width="48" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="24" y="16" text-anchor="middle" font-size="11" fill="#c9d1d9">C++</text>
+
+      <rect x="56" width="104" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="108" y="16" text-anchor="middle" font-size="11" fill="#c9d1d9">Unreal Engine</text>
+
+      <rect x="168" width="56" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="196" y="16" text-anchor="middle" font-size="11" fill="#c9d1d9">MCP</text>
+
+      <rect x="232" width="84" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <text class="mono" x="274" y="16" text-anchor="middle" font-size="11" fill="#c9d1d9">TypeScript</text>
+    </g>
   </g>
-  <rect x=".5" y=".5" width="479" height="211" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+  <rect x="0.5" y="0.5" width="479" height="199" rx="9.5" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
