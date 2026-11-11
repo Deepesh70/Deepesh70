@@ -7,7 +7,7 @@ on:
   push:
     paths:
       - profile.json
-      - .profile/icons.json
+      - .profile/**
       - .github/workflows/expressive-profile.yml
 
 permissions:

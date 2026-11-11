@@ -10,11 +10,11 @@
     "hero",
     "socials",
     "about",
+    "buttons",
     "stats",
     "projects",
     "streak",
-    "stack",
-    "buttons"
+    "stack"
   ],
   "hidden": [],
   "hero": {
@@ -33,8 +33,8 @@
         "label": "Full-Stack · Applied AI · C++"
       },
       {
-        "icon": "group",
-        "label": "Open to SDE Roles & Collaboration"
+        "icon": "deployed_code",
+        "label": "Co-building ScholarDive"
       }
     ]
   },
@@ -65,18 +65,64 @@
         "label": "B.Tech in Computer Science & Engineering"
       },
       {
+        "icon": "deployed_code",
+        "label": "Co-building ScholarDive (scholardive.com) — adaptive educational assessment ecosystem"
+      },
+      {
         "icon": "terminal",
         "label": "Full-stack web applications, microservices, and distributed architectures"
       },
       {
         "icon": "code",
-        "label": "Applied AI systems, LLM pipelines, and Model Context Protocol (MCP) tooling"
-      },
-      {
-        "icon": "deployed_code",
-        "label": "Core CS foundations in Data Structures, OS, and C++ game engine integrations"
+        "label": "Applied AI systems, LLM pipelines, Unreal-MCP, and C++ engine bindings"
       }
     ]
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "arrow_outward",
+        "label": "ScholarDive (scholardive.com)",
+        "url": "https://www.scholardive.com/",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "All Repositories",
+        "url": "https://github.com/Deepesh70?tab=repositories",
+        "style": "tonal"
+      },
+      {
+        "icon": "favorite",
+        "label": "Sponsor on Buy Me A Coffee",
+        "url": "https://buymeacoffee.com/deepesh70",
+        "style": "tonal"
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Pin repositories on your profile to display them here.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub Analytics",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Contribution Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
   },
   "stack": {
     "title": "Tech Stack",
@@ -110,46 +156,6 @@
           { "icon": "brand:linux", "label": "Linux" },
           { "icon": "brand:git", "label": "Git" }
         ]
-      }
-    ]
-  },
-  "projects": {
-    "source": "pinned",
-    "repos": [],
-    "overrides": {},
-    "empty": "Pin repositories on your profile to display them here.",
-    "fork": "Fork"
-  },
-  "stats": {
-    "title": "GitHub Analytics",
-    "stars": "Stars earned",
-    "contributions": "Contributions this year",
-    "repos": "Public repos",
-    "followers": "Followers",
-    "calendar": "Last 21 days",
-    "weekdays": "SMTWTFS",
-    "languages": "Languages across my repositories",
-    "showLanguages": true
-  },
-  "streak": {
-    "title": "Contribution Streak",
-    "current": "Current streak",
-    "longest": "Longest this year",
-    "days": "days"
-  },
-  "buttons": {
-    "items": [
-      {
-        "icon": "book_2",
-        "label": "All Repositories",
-        "url": "https://github.com/Deepesh70?tab=repositories",
-        "style": "tonal"
-      },
-      {
-        "icon": "favorite",
-        "label": "Sponsor on Buy Me A Coffee",
-        "url": "https://buymeacoffee.com/deepesh70",
-        "style": "tonal"
       }
     ]
   }
