@@ -1,0 +1,670 @@
+{
+ "key": "13665a26",
+ "stars": 8,
+ "contributions": 1631,
+ "repos": 42,
+ "followers": 3,
+ "languages": [
+  [
+   "JavaScript",
+   893844
+  ],
+  [
+   "Python",
+   811498
+  ],
+  [
+   "C++",
+   258040
+  ],
+  [
+   "TypeScript",
+   237942
+  ],
+  [
+   "Jupyter Notebook",
+   202040
+  ],
+  [
+   "CSS",
+   86602
+  ],
+  [
+   "TeX",
+   54639
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 10,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 31
+ },
+ "pins": [
+  {
+   "name": "Unreal-MCP",
+   "url": "https://github.com/Deepesh70/Unreal-MCP",
+   "text": "Model Context Protocol (MCP) Server for Unreal Engine — AI-powered real-time level editing, material generation, and scene orchestration.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "ai-agents",
+    "fastmcp",
+    "game-dev",
+    "langchain",
+    "mcp",
+    "model-context-protocol",
+    "python",
+    "unreal-engine",
+    "cpp"
+   ]
+  },
+  {
+   "name": "ai-anime-challenge",
+   "url": "https://github.com/Deepesh70/ai-anime-challenge",
+   "text": "Domain-specific restoration pipeline for broadcast anime video on the Re-Anime600 benchmark (AINIME Challenge @ WACV 2027 Workshop).",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "guided-filter",
+    "pytorch",
+    "temporal-consistency",
+    "video-super-resolution",
+    "anime-restoration",
+    "re-anime600",
+    "wacv-2027"
+   ]
+  },
+  {
+   "name": "kimodo.cpp",
+   "url": "https://github.com/localai-org/kimodo.cpp",
+   "text": "Animate skeletons with natural language; NVIDIA's Kimodo ported to C++/GGML",
+   "fork": false,
+   "stars": 965,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Mini_Generative_Pretrained_Transformer",
+   "url": "https://github.com/Jeevant010/Mini_Generative_Pretrained_Transformer",
+   "text": "This is created for my own tutor Large Language Model (LLM) .",
+   "fork": false,
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "Shoot_Catcher",
+   "url": "https://github.com/Jeevant010/Shoot_Catcher",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "Flex-Watch",
+   "url": "https://github.com/Deepesh70/Flex-Watch",
+   "text": "Movie featuring web platform featuring React 19, Node.js/Express BFF, relational persistence with Prisma & SQLite/PostgreSQL, Clerk auth, and a Python cosine-similarity recommendation engine.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "ci-cd",
+    "docker",
+    "express",
+    "machine-learning",
+    "nodejs",
+    "postgresql",
+    "prisma",
+    "prisma-orm",
+    "react19",
+    "recommender-system"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "song-detector",
+   "url": "https://github.com/Deepesh70/song-detector",
+   "text": "Lightweight native Windows audio recognition application in modern C++17.",
+   "fork": false,
+   "stars": 2,
+   "language": "C++",
+   "topics": [
+    "acoustic-fingerprinting",
+    "acrcloud",
+    "audio-fingerprinting",
+    "dsp",
+    "music-recognition",
+    "shazam",
+    "signal-processing",
+    "sound-detection",
+    "wasapi",
+    "cpp"
+   ]
+  },
+  {
+   "name": "ai-anime-challenge",
+   "url": "https://github.com/Deepesh70/ai-anime-challenge",
+   "text": "Domain-specific restoration pipeline for broadcast anime video on the Re-Anime600 benchmark (AINIME Challenge @ WACV 2027 Workshop).",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "guided-filter",
+    "pytorch",
+    "temporal-consistency",
+    "video-super-resolution",
+    "anime-restoration",
+    "re-anime600",
+    "wacv-2027"
+   ]
+  },
+  {
+   "name": "Riot_web",
+   "url": "https://github.com/Deepesh70/Riot_web",
+   "text": "Gaming hub and analytics portal for the Riot Games universe(Mainly Valorant). Features real-time player stats.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "docker",
+    "esports",
+    "expressjs",
+    "fullstack",
+    "gaming",
+    "github-actions",
+    "gsap",
+    "kmeans-clustering",
+    "machine-learning",
+    "monogdb"
+   ]
+  },
+  {
+   "name": "Unreal-MCP",
+   "url": "https://github.com/Deepesh70/Unreal-MCP",
+   "text": "Model Context Protocol (MCP) Server for Unreal Engine — AI-powered real-time level editing, material generation, and scene orchestration.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "ai-agents",
+    "fastmcp",
+    "game-dev",
+    "langchain",
+    "mcp",
+    "model-context-protocol",
+    "python",
+    "unreal-engine",
+    "cpp"
+   ]
+  },
+  {
+   "name": "Flex-Watch",
+   "url": "https://github.com/Deepesh70/Flex-Watch",
+   "text": "Movie featuring web platform featuring React 19, Node.js/Express BFF, relational persistence with Prisma & SQLite/PostgreSQL, Clerk auth, and a Python cosine-similarity recommendation engine.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "ci-cd",
+    "docker",
+    "express",
+    "machine-learning",
+    "nodejs",
+    "postgresql",
+    "prisma",
+    "prisma-orm",
+    "react19",
+    "recommender-system"
+   ]
+  },
+  {
+   "name": "Deepesh70",
+   "url": "https://github.com/Deepesh70/Deepesh70",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Mojito_Cocktail",
+   "url": "https://github.com/Deepesh70/Mojito_Cocktail",
+   "text": "Using gsap to create a stunning Cocktail website",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Filee",
+   "url": "https://github.com/Deepesh70/Filee",
+   "text": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Ultron",
+   "url": "https://github.com/Deepesh70/Ultron",
+   "text": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "DVec",
+   "url": "https://github.com/Deepesh70/DVec",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "anti-slop",
+   "url": "https://github.com/Deepesh70/anti-slop",
+   "text": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "leetCode-solutions",
+   "url": "https://github.com/Deepesh70/leetCode-solutions",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "GitPR-Analyzer",
+   "url": "https://github.com/Deepesh70/GitPR-Analyzer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "discord-mcp",
+   "url": "https://github.com/Deepesh70/discord-mcp",
+   "text": "A MCP server for the Discord integration. Enable your AI assistants to seamlessly interact with Discord. Enhance your Discord experience with powerful automation capabilities.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "revanced-manager-deep",
+   "url": "https://github.com/Deepesh70/revanced-manager-deep",
+   "text": "💊 Application to use ReVanced on Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "kimodo.cpp",
+   "url": "https://github.com/Deepesh70/kimodo.cpp",
+   "text": "Animate skeletons with natural language; NVIDIA's Kimodo ported to C++/GGML",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "deepesh_portfolio",
+   "url": "https://github.com/Deepesh70/deepesh_portfolio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "student_DBMS",
+   "url": "https://github.com/Deepesh70/student_DBMS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "duolingo-inspired-app",
+   "url": "https://github.com/Deepesh70/duolingo-inspired-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Django_authentication_system",
+   "url": "https://github.com/Deepesh70/Django_authentication_system",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "deepesh_portfolio_01",
+   "url": "https://github.com/Deepesh70/deepesh_portfolio_01",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "colab-llm-training",
+   "url": "https://github.com/Deepesh70/colab-llm-training",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Authentication-in-MERN",
+   "url": "https://github.com/Deepesh70/Authentication-in-MERN",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "LLM_using_Pytorch",
+   "url": "https://github.com/Deepesh70/LLM_using_Pytorch",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Attention-Mecahnism-Visaulization",
+   "url": "https://github.com/Deepesh70/Attention-Mecahnism-Visaulization",
+   "text": "BertViz: Visualize Attention in Transformer Models",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Mini_Generative_Pretrained_Transformer",
+   "url": "https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer",
+   "text": "This is created for my own tutor Large Language Model (LLM) .",
+   "fork": true,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "Book_Model",
+   "url": "https://github.com/Deepesh70/Book_Model",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Web-Srapper",
+   "url": "https://github.com/Deepesh70/Web-Srapper",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "CyberSecurity",
+   "url": "https://github.com/Deepesh70/CyberSecurity",
+   "text": "Stuffs related to cyberscurity",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "Movie_Recommendation",
+   "url": "https://github.com/Deepesh70/Movie_Recommendation",
+   "text": "ML project for movie recommendation",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "github-readme-stats",
+   "url": "https://github.com/Deepesh70/github-readme-stats",
+   "text": ":zap: Dynamically generated stats for your github readmes",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Book-Management",
+   "url": "https://github.com/Deepesh70/Book-Management",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "AI_Assistant",
+   "url": "https://github.com/Deepesh70/AI_Assistant",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Sentiment_Analysis",
+   "url": "https://github.com/Deepesh70/Sentiment_Analysis",
+   "text": "A web based project that analysis positive and negative reviews .",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Heatmap",
+   "url": "https://github.com/Deepesh70/Heatmap",
+   "text": "A basic Heatmap In MERN with Mongoose connection.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Apple-Web",
+   "url": "https://github.com/Deepesh70/Apple-Web",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ML_Digit_Analyser",
+   "url": "https://github.com/Deepesh70/ML_Digit_Analyser",
+   "text": "Handwritten Digit Recognition & Stroke Diagnostic Engine powered by CNN, EMNIST, Streamlit, and GitHub Actions CI/CD",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cnn",
+    "deep-learning",
+    "emnist",
+    "machine-learning",
+    "python",
+    "streamlit",
+    "tensorflow"
+   ]
+  },
+  {
+   "name": "Docker_Bakend_API",
+   "url": "https://github.com/Deepesh70/Docker_Bakend_API",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Movies-App",
+   "url": "https://github.com/Deepesh70/Movies-App",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Task-Viewer",
+   "url": "https://github.com/Deepesh70/Task-Viewer",
+   "text": "Created a task view web application with node.js, express  and using ejs for backend",
+   "fork": false,
+   "stars": 0,
+   "language": "EJS",
+   "topics": []
+  },
+  {
+   "name": "Zentry-Clone",
+   "url": "https://github.com/Deepesh70/Zentry-Clone",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Spotify_Clone",
+   "url": "https://github.com/Deepesh70/Spotify_Clone",
+   "text": "Making a Spotify clone Website",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
