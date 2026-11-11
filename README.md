@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Deepesh Dangi, software engineer: low-latency systems, applied AI, distributed backends" width="100%">
+<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/header.svg" alt="Deepesh Dangi, software engineer: low-latency systems, applied AI, distributed backends" width="100%">
 
 <br>
 
@@ -11,7 +11,7 @@
 <a href="https://buymeacoffee.com/deepesh70"><img src="https://img.shields.io/badge/Sponsor-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 <img src="https://komarev.com/ghpvc/?username=Deepesh70&style=flat-square&color=22d3ee&label=profile+views" alt="Profile views">
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/divider.svg" width="100%" alt="">
 
 </div>
 
@@ -26,18 +26,18 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
 | **Strongest at** | C++ and Python, backend services, ML from first principles |
 | **Looking for** | SDE internships, systems programming, high-impact applied AI roles |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/divider.svg" width="100%" alt=""></div>
 
 ## Featured projects
 
 <table>
   <tr>
-    <td width="50%"><a href="https://www.scholardive.com/"><img src="assets/card-scholardive.svg" alt="ScholarDive" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/Deepesh70/Unreal-MCP"><img src="assets/card-unreal-mcp.svg" alt="Unreal-MCP" width="100%"></a></td>
+    <td width="50%"><a href="https://www.scholardive.com/"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-scholardive.svg" alt="ScholarDive" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/Unreal-MCP"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-unreal-mcp.svg" alt="Unreal-MCP" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer"><img src="assets/card-mini-gpt.svg" alt="Mini GPT" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/Deepesh70/GGStats"><img src="assets/card-ggstats.svg" alt="GGStats" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/Mini_Generative_Pretrained_Transformer"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-mini-gpt.svg" alt="Mini GPT" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Deepesh70/GGStats"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/card-ggstats.svg" alt="GGStats" width="100%"></a></td>
   </tr>
 </table>
 
@@ -93,13 +93,13 @@ flowchart LR
 
 </details>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/divider.svg" width="100%" alt=""></div>
 
 ## Stack
 
-<div align="center"><img src="assets/stack.svg" alt="Languages: C++, Python, TypeScript, JavaScript, SQL. Backend: FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis. AI and tooling: PyTorch, CUDA, MCP, Docker, Linux, Git." width="100%"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/stack.svg" alt="Languages: C++, Python, TypeScript, JavaScript, SQL. Backend: FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis. AI and tooling: PyTorch, CUDA, MCP, Docker, Linux, Git." width="100%"></div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/divider.svg" width="100%" alt=""></div>
 
 ## How I like to build
 
@@ -107,7 +107,7 @@ flowchart LR
 |---|---|---|
 | Small services with clear contracts, so scoring, ingestion and analytics can change independently. | Keep the hot path inside the process and the messages between processes small. | Cache in front of slow or rate-limited dependencies, and keep the write path asynchronous. |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/divider.svg" width="100%" alt=""></div>
 
 ## Activity
 
@@ -121,12 +121,12 @@ flowchart LR
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepesh70&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1222&title_color=a78bfa&icon_color=22d3ee&include_all_commits=true" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1222&title_color=a78bfa" alt="Top languages">
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Deepesh70&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1222&title_color=a78bfa&icon_color=22d3ee&include_all_commits=true" alt="GitHub stats">
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1222&title_color=a78bfa" alt="Top languages">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepesh70&theme=tokyo-night&hide_border=true&bg_color=0d1222&color=a78bfa&line=22d3ee&point=f472b6" width="100%" alt="Contribution graph">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepesh70&theme=tokyonight&hide_border=true&background=0d1222&ring=22d3ee&fire=f472b6&currStreakLabel=a78bfa" width="100%" alt="Contribution streak">
 
 </div>
 
@@ -136,6 +136,6 @@ flowchart LR
 
 If something here is useful, you can [buy me a coffee](https://buymeacoffee.com/deepesh70).
 
-<img src="assets/footer.svg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/footer.svg" width="100%" alt="">
 
 </div>
