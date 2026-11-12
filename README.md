@@ -106,16 +106,7 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/koi/koi.gif" width="220" alt="Activity Koi">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/activity.svg?v=2" alt="Contribution Graph" width="100%">
-
-<br><br>
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Deepesh70&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats">
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deepesh70&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9" alt="Top languages">
+<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/koi/koi.gif" width="256" alt="GitHub Activity Koi">
 
 </div>
 
