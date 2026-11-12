@@ -106,6 +106,10 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/koi/koi.gif" width="220" alt="Activity Koi">
+
+<br>
+
 <img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/activity.svg?v=2" alt="Contribution Graph" width="100%">
 
 <br><br>
