@@ -104,10 +104,29 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
 
 ## Activity
 
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/koi/koi.gif" width="180" alt="GitHub Activity Koi">
+      <br>
+      <sub><code>git-koi</code> · Asagi Specimen</sub>
+    </td>
+    <td width="70%" valign="middle">
+      <b>Procedural Activity Visualization</b>
+      <br><br>
+      An algorithmic simulation generated daily from public repository telemetry:
+      <br><br>
+      • <b>Scale &amp; Growth:</b> Proportional to <b>1,568 contributions</b> across 31 public repositories.<br>
+      • <b>Coat &amp; Pigmentation:</b> Mapped from primary language distributions (<b>C++</b>, <b>Python</b>, <b>TypeScript</b>).<br>
+      • <b>Swim Behavior:</b> Driven by commit streak consistency and recent activity velocity.
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/koi/koi.gif" width="256" alt="GitHub Activity Koi">
-
+  <img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/activity.svg?v=2" alt="Contribution Graph" width="100%">
 </div>
 
 <div align="center">
