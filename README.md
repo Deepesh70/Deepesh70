@@ -102,32 +102,39 @@ Computer science undergraduate focused on **low-latency systems (C++)**, **appli
 
 <div align="center"><img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/divider.svg" width="100%" alt=""></div>
 
-## Activity
+## Achievements
 
 <table>
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/koi/koi.gif" width="180" alt="GitHub Activity Koi">
+    <td width="33.3%" align="center">
+      <a href="https://github.com/Deepesh70?achievement=pull-shark&tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="85" alt="Pull Shark">
+      </a>
       <br>
-      <sub><code>git-koi</code> · Asagi Specimen</sub>
+      <b>Pull Shark · x2</b>
+      <br>
+      <sub>Merged pull requests</sub>
     </td>
-    <td width="70%" valign="middle">
-      <b>Procedural Activity Visualization</b>
-      <br><br>
-      An algorithmic simulation generated daily from public repository telemetry:
-      <br><br>
-      • <b>Scale &amp; Growth:</b> Proportional to <b>1,568 contributions</b> across 31 public repositories.<br>
-      • <b>Coat &amp; Pigmentation:</b> Mapped from primary language distributions (<b>C++</b>, <b>Python</b>, <b>TypeScript</b>).<br>
-      • <b>Swim Behavior:</b> Driven by commit streak consistency and recent activity velocity.
+    <td width="33.3%" align="center">
+      <a href="https://github.com/Deepesh70?achievement=quickdraw&tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="85" alt="Quickdraw">
+      </a>
+      <br>
+      <b>Quickdraw</b>
+      <br>
+      <sub>Closed issue / PR within 5m</sub>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://github.com/Deepesh70?achievement=yolo&tab=achievements">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="85" alt="YOLO">
+      </a>
+      <br>
+      <b>YOLO</b>
+      <br>
+      <sub>Merged PR without review</sub>
     </td>
   </tr>
 </table>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Deepesh70/Deepesh70/main/assets/activity.svg?v=2" alt="Contribution Graph" width="100%">
-</div>
 
 <div align="center">
 
