@@ -13,7 +13,7 @@
 
     <!-- Title & Metric -->
     <text class="mono" x="24" y="28" font-size="10.5" font-weight="600" fill="#8b949e" letter-spacing="0.5">CONTRIBUTION ACTIVITY · REAL-TIME HISTORY</text>
-    <text x="24" y="52" font-size="15" font-weight="600" fill="#f0f6fc">1,569 contributions in 2026</text>
+    <text x="24" y="52" font-size="15" font-weight="600" fill="#f0f6fc">1,570 contributions in 2026</text>
 
     <!-- Legend -->
     <g transform="translate(650, 42)">
